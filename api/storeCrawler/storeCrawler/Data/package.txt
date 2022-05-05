@@ -1,0 +1,877 @@
+{"name": " 零基础学Python（全彩版）", "price": "¥39.90", "comnum": "15475条评论", "link": "//product.dangdang.com/28486010.html"}
+{"name": " Python编程 从入门到实践 第2版", "price": "¥54.90", "comnum": "218258条评论", "link": "//product.dangdang.com/29280602.html"}
+{"name": " DK编程真好玩：9岁开始学Python", "price": "¥59.00", "comnum": "13745条评论", "link": "//product.dangdang.com/27940162.html"}
+{"name": " Python爬虫技术——深入理解原理、技术与开发", "price": "¥44.50", "comnum": "2591条评论", "link": "//product.dangdang.com/28510027.html"}
+{"name": " Python项目开发案例集锦（全彩版）", "price": "¥64.00", "comnum": "3513条评论", "link": "//product.dangdang.com/28486019.html"}
+{"name": " Python编程快速上手 让繁琐工作自动化 第2版", "price": "¥44.50", "comnum": "44571条评论", "link": "//product.dangdang.com/29206214.html"}
+{"name": " 用Python编程和实践！数学教科书 机器学习 深度学习中必要的基础知识 人工智能 数学基础书 用python学数学 线", "price": "¥44.90", "comnum": "466条评论", "link": "//product.dangdang.com/29257459.html"}
+{"name": " Python+Office：轻松实现Python办公自动化", "price": "¥62.40", "comnum": "225条评论", "link": "//product.dangdang.com/29274777.html"}
+{"name": " 利用Python进行数据分析（原书第2版）", "price": "¥77.40", "comnum": "33763条评论", "link": "//product.dangdang.com/25312917.html"}
+{"name": " Python数据分析从入门到实践（全彩版）", "price": "¥49.00", "comnum": "944条评论", "link": "//product.dangdang.com/29249036.html"}
+{"name": " Python语言程序设计基础（第2版）", "price": "¥32.10", "comnum": "6697条评论", "link": "//product.dangdang.com/24189864.html"}
+{"name": " Python编程超级魔卡(全彩版)", "price": "¥14.90", "comnum": "2540条评论", "link": "//product.dangdang.com/28979311.html"}
+{"name": " Python编程三剑客新版：Python编程从入门到实践第2版+快速上手第2版+极客编程（当当套装共3册）", "price": "¥133.90", "comnum": "894条评论", "link": "//product.dangdang.com/29301947.html"}
+{"name": " 超简单：用Python让Excel飞起来", "price": "¥34.90", "comnum": "5131条评论", "link": "//product.dangdang.com/28999406.html"}
+{"name": " Python学习手册（原书第5版）", "price": "¥142.40", "comnum": "10040条评论", "link": "//product.dangdang.com/25576578.html"}
+{"name": " Python青少年趣味编程全彩版 独家配备71集视频教学课程 手机扫码看视频 少儿编程 小学生趣味编程 教孩子学编程 少", "price": "¥52.30", "comnum": "3535条评论", "link": "//product.dangdang.com/28524470.html"}
+{"name": " Python网络爬虫从入门到实践（全彩版）", "price": "¥49.00", "comnum": "471条评论", "link": "//product.dangdang.com/29249035.html"}
+{"name": " 看漫画学Python：有趣、有料、好玩、好用（全彩版）", "price": "¥59.70", "comnum": "6170条评论", "link": "//product.dangdang.com/28547874.html"}
+{"name": " 程序员数学 用Python学透线性代数和微积分", "price": "¥102.50", "comnum": "179条评论", "link": "//product.dangdang.com/29342404.html"}
+{"name": " Python编程300例——快速构建可执行高质量代码", "price": "¥44.50", "comnum": "1476条评论", "link": "//product.dangdang.com/28980121.html"}
+{"name": " Python黑帽子：黑客与渗透测试编程之道（第2版）", "price": "¥79.00", "comnum": "2条评论", "link": "//product.dangdang.com/29385527.html"}
+{"name": " 流畅的Python", "price": "¥109.60", "comnum": "10379条评论", "link": "//product.dangdang.com/25071121.html"}
+{"name": " 超简单：用Python让Excel飞起来（实战150例）", "price": "¥39.90", "comnum": "879条评论", "link": "//product.dangdang.com/29279837.html"}
+{"name": " Python Qt GUI与数据可视化编程", "price": "¥66.40", "comnum": "3328条评论", "link": "//product.dangdang.com/27918134.html"}
+{"name": " 用图形学Python 3", "price": "¥29.90", "comnum": "381条评论", "link": "//product.dangdang.com/29222668.html"}
+{"name": " 零基础学Python爬虫 数据分析与可视化从入门到精通", "price": "¥44.90", "comnum": "2932条评论", "link": "//product.dangdang.com/29166854.html"}
+{"name": " Python工匠：案例、技巧与工程实践（基于Python 3.8，实现Python编程从入门到工匠的跃迁）", "price": "¥78.80", "comnum": "151条评论", "link": "//product.dangdang.com/29367298.html"}
+{"name": " Django + Vue.js实战派——Python Web开发与运维", "price": "¥96.00", "comnum": "1条评论", "link": "//product.dangdang.com/29387504.html"}
+{"name": " Python GUI 设计tkinter从入门到实践（全彩版）", "price": "¥49.00", "comnum": "520条评论", "link": "//product.dangdang.com/29249040.html"}
+{"name": " Python3网络爬虫开发实战 第2版", "price": "¥110.40", "comnum": "449条评论", "link": "//product.dangdang.com/29339223.html"}
+{"name": " 日系图书用Python编程和实践！区块链教科书 从零创建简单区块链程序 比特币 元宇宙 数字货币 新金融底层技术 p2p", "price": "¥44.90", "comnum": "213条评论", "link": "//product.dangdang.com/29257456.html"}
+{"name": " Python GUI设计PyQt5从入门到实践（全彩版）", "price": "¥49.00", "comnum": "1041条评论", "link": "//product.dangdang.com/29225822.html"}
+{"name": " Python极客项目编程", "price": "¥46.30", "comnum": "3245条评论", "link": "//product.dangdang.com/25060153.html"}
+{"name": " Python OpenCV 从入门到实践（全彩版）", "price": "¥49.00", "comnum": "510条评论", "link": "//product.dangdang.com/29250278.html"}
+{"name": " Python实效编程百例·综合卷(全彩版)", "price": "¥39.90", "comnum": "1460条评论", "link": "//product.dangdang.com/28980468.html"}
+{"name": " Python编程无师自通 专业程序员的养成", "price": "¥46.60", "comnum": "3490条评论", "link": "//product.dangdang.com/26440157.html"}
+{"name": " 笨办法学Python 3", "price": "¥39.60", "comnum": "16148条评论", "link": "//product.dangdang.com/25286312.html"}
+{"name": " Python数据分析与可视化", "price": "¥29.90", "comnum": "251条评论", "link": "//product.dangdang.com/29277911.html"}
+{"name": " Python项目开发实战入门（全彩版）", "price": "¥49.00", "comnum": "955条评论", "link": "//product.dangdang.com/28976933.html"}
+{"name": " Python函数参考手册（全彩版）", "price": "¥26.90", "comnum": "855条评论", "link": "//product.dangdang.com/28980472.html"}
+{"name": " Python算法从入门到实践（全彩版）", "price": "¥49.00", "comnum": "248条评论", "link": "//product.dangdang.com/29249037.html"}
+{"name": " Python股票量化交易从入门到实践", "price": "¥49.90", "comnum": "2177条评论", "link": "//product.dangdang.com/29279080.html"}
+{"name": " 时间序列预测：基于机器学习和Python实现", "price": "¥66.70", "comnum": "70条评论", "link": "//product.dangdang.com/29362871.html"}
+{"name": " 少儿编程之旅 趣学Python", "price": "¥38.70", "comnum": "650条评论", "link": "//product.dangdang.com/28977660.html"}
+{"name": " 对比Excel，轻松学习Python数据分析", "price": "¥39.60", "comnum": "29822条评论", "link": "//product.dangdang.com/26512595.html"}
+{"name": " Python数据分析与挖掘实战（第2版）", "price": "¥39.50", "comnum": "3039条评论", "link": "//product.dangdang.com/28481513.html"}
+{"name": " Python从入门到实践（全彩版）", "price": "¥44.90", "comnum": "150条评论", "link": "//product.dangdang.com/29227961.html"}
+{"name": " Python编程实战100例 100个编程实例 1390分钟视频讲解 核心编程应用 项目开发 python进阶 pyth", "price": "¥44.90", "comnum": "480条评论", "link": "//product.dangdang.com/29307355.html"}
+{"name": " Python编程从数据分析到机器学习实践（微课视频版）", "price": "¥49.90", "comnum": "1181条评论", "link": "//product.dangdang.com/28517948.html"}
+{"name": " Python+Kivy(App开发)从入门到实践(全彩版)", "price": "¥49.00", "comnum": "1100条评论", "link": "//product.dangdang.com/28980464.html"}
+{"name": " Python从入门到项目实践（全彩版）", "price": "¥49.90", "comnum": "2314条评论", "link": "//product.dangdang.com/28486024.html"}
+{"name": " Python王者归来（增强版）", "price": "¥84.50", "comnum": "121条评论", "link": "//product.dangdang.com/29308247.html"}
+{"name": " Python速查手册·模块卷（全彩版）", "price": "¥65.50", "comnum": "831条评论", "link": "//product.dangdang.com/28996022.html"}
+{"name": " Python速查手册·基础卷（全彩版）", "price": "¥57.70", "comnum": "853条评论", "link": "//product.dangdang.com/28994565.html"}
+{"name": " 程序员的数学基础课 从理论到Python实践", "price": "¥44.50", "comnum": "637条评论", "link": "//product.dangdang.com/29211948.html"}
+{"name": " 非常容易：Python+Office市场营销办公自动化", "price": "¥39.90", "comnum": "12条评论", "link": "//product.dangdang.com/29393406.html"}
+{"name": " Python编程入门与算法进阶", "price": "¥49.50", "comnum": "1727条评论", "link": "//product.dangdang.com/29382153.html"}
+{"name": " Python编程锦囊（全彩版）", "price": "¥39.90", "comnum": "30条评论", "link": "//product.dangdang.com/28485449.html"}
+{"name": " Python进阶：实际应用开发实战", "price": "¥96.70", "comnum": "1764条评论", "link": "//product.dangdang.com/29365568.html"}
+{"name": " Python游戏编程快速上手 [美]Al Swei,【正版书】", "price": "¥43.06", "comnum": "1条评论", "link": "//product.dangdang.com/11063945090.html"}
+{"name": " Python面向对象编程指南 Mastering Objec [美]Steven【正版书】", "price": "¥39.50", "comnum": "1条评论", "link": "//product.dangdang.com/11074273109.html"}
+{"name": " Python游戏编程快速上手 [美]Al Swei,【正版书】", "price": "¥52.28", "comnum": "1条评论", "link": "//product.dangdang.com/11061036146.html"}
+{"name": " Python 3.0科学计算指南 9787115481146", "price": "¥34.50", "comnum": "4条评论", "link": "//product.dangdang.com/11067843154.html"}
+{"name": " Python网络爬虫实战 清华科技大讲堂【正版书籍，畅读优品】", "price": "¥62.38", "comnum": "3条评论", "link": "//product.dangdang.com/11084287178.html"}
+{"name": " Python Flask Web开发入门与项目实战 钱游编著 计算机软件与程序设计 Python/Flask框架知识 F", "price": "¥83.85", "comnum": "2条评论", "link": "//product.dangdang.com/697472232.html"}
+{"name": " Python期货量化交易实战 基于python的金融分析 金融大数据书 量化交易实战教程书籍程序化交", "price": "¥41.30", "comnum": "49条评论", "link": "//product.dangdang.com/1571270045.html"}
+{"name": " Python编程从入门到精通 计算机电脑编程入门自学零基础书籍网络爬虫 pathon编程从入门到实践python基础教程", "price": "¥55.00", "comnum": "29条评论", "link": "//product.dangdang.com/1728204004.html"}
+{"name": " Python参考手册（第4版·修订版）程序设计算法Python基础教程核心编程+Python 3程序开发指南第2版 修订", "price": "¥158.00", "comnum": "8条评论", "link": "//product.dangdang.com/1191764087.html"}
+{"name": " 【包邮特价】Python青少年编程魔法课堂（案例+视频教学版）|233763", "price": "¥45.54", "comnum": "4条评论", "link": "//product.dangdang.com/1810621148.html"}
+{"name": " Python3面向对象编程(第2版影印版)(英文版)", "price": "¥57.35", "comnum": "9条评论", "link": "//product.dangdang.com/1250432950.html"}
+{"name": " Python机器学习 第2版【正版书籍 开具发票 达额减】", "price": "¥67.20", "comnum": "8条评论", "link": "//product.dangdang.com/11120724170.html"}
+{"name": " Python网络编程攻略 (英)M.O.Far", "price": "¥35.75", "comnum": "1条评论", "link": "//product.dangdang.com/11138378069.html"}
+{"name": " Python科学计算 张若愚,【正版书】", "price": "¥37.06", "comnum": "105条评论", "link": "//product.dangdang.com/11073684089.html"}
+{"name": " Python机器学习及实践/人工智能科学与技术丛书", "price": "¥57.00", "comnum": "9条评论", "link": "//product.dangdang.com/11049803185.html"}
+{"name": " Python编程初学者指南【领券下单】", "price": "¥145.59", "comnum": "3条评论", "link": "//product.dangdang.com/11060242349.html"}
+{"name": " Python项目开发实战 第2版【达额立减】", "price": "¥46.20", "comnum": "1条评论", "link": "//product.dangdang.com/11094975316.html"}
+{"name": " Python UNIX 和Linux 系统管理指南【可开电子发票】", "price": "¥64.39", "comnum": "1条评论", "link": "//product.dangdang.com/11060292859.html"}
+{"name": " Python开发技术详解【满减】", "price": "¥67.79", "comnum": "9条评论", "link": "//product.dangdang.com/11060249199.html"}
+{"name": " Python人工智能 李晓东 著 电子工业出版社", "price": "¥78.50", "comnum": "1条评论", "link": "//product.dangdang.com/11159931407.html"}
+{"name": " Python编程基础 庄浩,周颖,徐卫,赵力 著 机械工业出版社", "price": "¥52.04", "comnum": "1条评论", "link": "//product.dangdang.com/11159931387.html"}
+{"name": " 地理数据处理与分析——Python与Arcpy编程", "price": "¥109.00", "comnum": "88条评论", "link": "//product.dangdang.com/29270023.html"}
+{"name": " Python网络爬虫技术与实战", "price": "¥44.50", "comnum": "183条评论", "link": "//product.dangdang.com/29199545.html"}
+{"name": " Python机器学习一本通", "price": "¥97.70", "comnum": "100条评论", "link": "//product.dangdang.com/29115119.html"}
+{"name": " Python程序设计应用教程（应用型高等院校改革创新示范教材）", "price": "¥27.60", "comnum": "20条评论", "link": "//product.dangdang.com/29218184.html"}
+{"name": " Python编程超级魔卡", "price": "¥20.00", "comnum": "30条评论", "link": "//product.dangdang.com/29284172.html"}
+{"name": " 利用Python进行数据分析【正版上新】", "price": "¥42.41", "comnum": "1条评论", "link": "//product.dangdang.com/11103092107.html"}
+{"name": " 算法实例精讲—Python语言实现", "price": "¥34.90", "comnum": "599条评论", "link": "//product.dangdang.com/28996795.html"}
+{"name": " Python入门到人工智能实战", "price": "¥57.60", "comnum": "229条评论", "link": "//product.dangdang.com/28538961.html"}
+{"name": " Python应用实战：爬虫、文本分析与可视化", "price": "¥33.10", "comnum": "136条评论", "link": "//product.dangdang.com/28536353.html"}
+{"name": " Python机器学习——数据分析与评分卡建模（微课版）", "price": "¥24.50", "comnum": "448条评论", "link": "//product.dangdang.com/27862921.html"}
+{"name": " 【正版特价】零基础入门Python深度学习|233102", "price": "¥27.14", "comnum": "1条评论", "link": "//product.dangdang.com/1810623658.html"}
+{"name": " 【正版特价】Python网络爬虫从入门到实践 第2版|232582", "price": "¥31.74", "comnum": "2条评论", "link": "//product.dangdang.com/1839562500.html"}
+{"name": " Python轻松学-爬虫.游戏与架站", "price": "¥44.84", "comnum": "3条评论", "link": "//product.dangdang.com/1745451362.html"}
+{"name": " Python数据处理", "price": "¥74.25", "comnum": "1条评论", "link": "//product.dangdang.com/1008159977.html"}
+{"name": " Python核心编程(第3版)", "price": "¥74.25", "comnum": "4条评论", "link": "//product.dangdang.com/1426202147.html"}
+{"name": " Python树莓派开发从入门到精通", "price": "¥67.35", "comnum": "1条评论", "link": "//product.dangdang.com/11123088627.html"}
+{"name": " Python Web自动化测试设计与实现", "price": "¥60.04", "comnum": "2条评论", "link": "//product.dangdang.com/1637027182.html"}
+{"name": " Python程序员面试笔试宝典", "price": "¥66.75", "comnum": "32条评论", "link": "//product.dangdang.com/1746549962.html"}
+{"name": " Python编程轻松入门", "price": "¥71.84", "comnum": "1条评论", "link": "//product.dangdang.com/11019643177.html"}
+{"name": " Python趣味编程-从入门到人工智能", "price": "¥44.84", "comnum": "51条评论", "link": "//product.dangdang.com/1745447432.html"}
+{"name": " Python3网络爬虫开发实战 D2版", "price": "¥111.84", "comnum": "409条评论", "link": "//product.dangdang.com/11043570577.html"}
+{"name": " Python与量化投资-从基础到实战", "price": "¥74.30", "comnum": "248条评论", "link": "//product.dangdang.com/1373775277.html"}
+{"name": " Python网络编程(原书第2版)-华章程序员书库", "price": "¥81.75", "comnum": "3条评论", "link": "//product.dangdang.com/1529369362.html"}
+{"name": " Python编程从入门到实战的16堂课（第2版）", "price": "¥60.04", "comnum": "101条评论", "link": "//product.dangdang.com/1745451662.html"}
+{"name": " Python网络爬虫实例教程(视频讲解版)", "price": "¥37.35", "comnum": "232条评论", "link": "//product.dangdang.com/1041367913.html"}
+{"name": " Python机器学习", "price": "¥59.30", "comnum": "369条评论", "link": "//product.dangdang.com/1142350777.html"}
+{"name": " Python基础实例教程(微课版)", "price": "¥37.35", "comnum": "823条评论", "link": "//product.dangdang.com/1334420613.html"}
+{"name": " Python数据分析入门与实战", "price": "¥52.43", "comnum": "1103条评论", "link": "//product.dangdang.com/1746527862.html"}
+{"name": " 包邮 Python学习手册（原书第5版）|8053406", "price": "¥153.30", "comnum": "5条评论", "link": "//product.dangdang.com/1373262536.html"}
+{"name": " Python科学计算及实践", "price": "¥44.50", "comnum": "107条评论", "link": "//product.dangdang.com/29213270.html"}
+{"name": " 三步学Python（全彩印刷）", "price": "¥49.90", "comnum": "17条评论", "link": "//product.dangdang.com/29347459.html"}
+{"name": " Python程序设计与应用", "price": "¥40.30", "comnum": "10条评论", "link": "//product.dangdang.com/29356869.html"}
+{"name": " Python 3破冰人工智能 从入门到实战", "price": "¥46.60", "comnum": "615条评论", "link": "//product.dangdang.com/27852496.html"}
+{"name": " Python大学实用教程", "price": "¥41.00", "comnum": "88条评论", "link": "//product.dangdang.com/26919021.html"}
+{"name": " Python编程快速上手 (美)斯维加特(Al Sweigart) 著,王海鹏 译【正版图书，放心下单】", "price": "¥25.20", "comnum": "182条评论", "link": "//product.dangdang.com/11108235373.html"}
+{"name": " Python Web开发从入门到精通", "price": "¥86.10", "comnum": "5条评论", "link": "//product.dangdang.com/28542171.html"}
+{"name": " Python程序设计语言", "price": "¥50.10", "comnum": "16条评论", "link": "//product.dangdang.com/29360544.html"}
+{"name": " Python程序设计项目教程", "price": "¥41.00", "comnum": "4条评论", "link": "//product.dangdang.com/28986439.html"}
+{"name": " Python程序设计教程", "price": "¥45.80", "comnum": "19条评论", "link": "//product.dangdang.com/29372545.html"}
+{"name": " Python与机器学习实战:决策树、集成学习、支持向量机与神经网络算法详解及编程实现 何宇健 编著 电子工业出版社【正版", "price": "¥67.90", "comnum": "260条评论", "link": "//product.dangdang.com/11047280679.html"}
+{"name": " Python程序设计实验教程", "price": "¥30.00", "comnum": "124条评论", "link": "//product.dangdang.com/29122053.html"}
+{"name": " Python机器学习及实践", "price": "¥39.50", "comnum": "160条评论", "link": "//product.dangdang.com/28549337.html"}
+{"name": " Python项目案例开发超详细攻略——GUI开发、网络爬虫、Web开发、数据分析与可视化、机器学习", "price": "¥39.50", "comnum": "79条评论", "link": "//product.dangdang.com/29214825.html"}
+{"name": " Python程序设计基础", "price": "¥21.20", "comnum": "147条评论", "link": "//product.dangdang.com/23766083.html"}
+{"name": " Python无监督机器学习实践", "price": "¥64.50", "comnum": "206条评论", "link": "//product.dangdang.com/29130013.html"}
+{"name": " Python 3 基础教程实验指导与习题集（微课版）", "price": "¥23.50", "comnum": "249条评论", "link": "//product.dangdang.com/28988711.html"}
+{"name": " Python大数据分析算法与实例", "price": "¥51.70", "comnum": "152条评论", "link": "//product.dangdang.com/28553126.html"}
+{"name": " Python语言从入门到精通", "price": "¥86.10", "comnum": "22条评论", "link": "//product.dangdang.com/28542148.html"}
+{"name": " Python广告数据挖掘与分析实战", "price": "¥44.50", "comnum": "37条评论", "link": "//product.dangdang.com/29222008.html"}
+{"name": " Python编程：从数据分析到数据科学（第2版）", "price": "¥77.40", "comnum": "109条评论", "link": "//product.dangdang.com/29269973.html"}
+{"name": " Python AI项目实战 Practical Python AI Projects: Mathematical Mod", "price": "¥39.50", "comnum": "1117条评论", "link": "//product.dangdang.com/29250050.html"}
+{"name": " Python深度学习与项目实战", "price": "¥39.50", "comnum": "90条评论", "link": "//product.dangdang.com/29196896.html"}
+{"name": " 利用Python进行数据分析【正版书籍 开具发票 达额减】", "price": "¥37.70", "comnum": "414条评论", "link": "//product.dangdang.com/11119731520.html"}
+{"name": " Python数据分析入门——从数据获取到可视化", "price": "¥39.60", "comnum": "43条评论", "link": "//product.dangdang.com/25247679.html"}
+{"name": " Python程序设计——从基础入门到实战应用", "price": "¥46.60", "comnum": "62条评论", "link": "//product.dangdang.com/27909161.html"}
+{"name": " 基于股票大数据分析的Python入门实战（视频教学版）", "price": "¥51.70", "comnum": "2条评论", "link": "//product.dangdang.com/28551671.html"}
+{"name": " Python程序设计（原书第3版）", "price": "¥128.40", "comnum": "127条评论", "link": "//product.dangdang.com/29240362.html"}
+{"name": " Python绘图指南——分形与数据可视化（全彩）", "price": "¥59.70", "comnum": "20条评论", "link": "//product.dangdang.com/29289648.html"}
+{"name": " Python数据分析技术手册：基础·实战·强化", "price": "¥64.00", "comnum": "212条评论", "link": "//product.dangdang.com/29374779.html"}
+{"name": " 商品期货量化交易实战（以Python为工具）", "price": "¥82.90", "comnum": "30条评论", "link": "//product.dangdang.com/29373976.html"}
+{"name": " Python代码编程 学科项目式编程（七年级）", "price": "¥30.40", "comnum": "16条评论", "link": "//product.dangdang.com/29322757.html"}
+{"name": " PyQt从入门到精通", "price": "¥44.90", "comnum": "356条评论", "link": "//product.dangdang.com/29249273.html"}
+{"name": " 零基础学Python项目开发", "price": "¥44.50", "comnum": "4条评论", "link": "//product.dangdang.com/29315254.html"}
+{"name": " python程序设计简明教程", "price": "¥30.80", "comnum": "92条评论", "link": "//product.dangdang.com/28536409.html"}
+{"name": " 实战Python设计模式：可复用面向对象软件开发实践", "price": "¥39.60", "comnum": "1条评论", "link": "//product.dangdang.com/28520544.html"}
+{"name": " 从Scratch到Python轻松学", "price": "¥89.60", "comnum": "74条评论", "link": "//product.dangdang.com/1605211395.html"}
+{"name": " Python机器学习算法与应用", "price": "¥51.70", "comnum": "152条评论", "link": "//product.dangdang.com/28544932.html"}
+{"name": " 简明Python教程【正版书籍 开具发票 满额减】", "price": "¥51.00", "comnum": "7065条评论", "link": "//product.dangdang.com/11081742306.html"}
+{"name": " Python大学教程", "price": "¥33.10", "comnum": "300条评论", "link": "//product.dangdang.com/25173211.html"}
+{"name": " Python基础与深度学习实战", "price": "¥29.00", "comnum": "67条评论", "link": "//product.dangdang.com/29000676.html"}
+{"name": " 精通Python爬虫框架Scrapy", "price": "¥46.60", "comnum": "2063条评论", "link": "//product.dangdang.com/25227022.html"}
+{"name": " NCT全国青少年编程能力等级测试教程：Python语言编程二级", "price": "¥43.50", "comnum": "145条评论", "link": "//product.dangdang.com/29149743.html"}
+{"name": " Python与语言研究", "price": "¥30.80", "comnum": "3510条评论", "link": "//product.dangdang.com/29202535.html"}
+{"name": " 跟我一起玩Python编程(共2册):教孩子快速掌握编程技巧", "price": "¥60.70", "comnum": "56条评论", "link": "//product.dangdang.com/28488756.html"}
+{"name": " Python数据挖掘实战", "price": "¥53.00", "comnum": "16条评论", "link": "//product.dangdang.com/29197307.html"}
+{"name": " Python编程从入门到精通 项目开发视频学习版", "price": "¥39.50", "comnum": "1条评论", "link": "//product.dangdang.com/25536364.html"}
+{"name": " Python编程快速入门数据分析套装 Python学习手册（上下册）+利用Python进行数据分析 （套装共3册）", "price": "¥253.50", "comnum": "200条评论", "link": "//product.dangdang.com/29236777.html"}
+{"name": " Python测试技术（21世纪软件工程专业规划教材）", "price": "¥34.00", "comnum": "401条评论", "link": "//product.dangdang.com/28544466.html"}
+{"name": " 水木书荟 零基础入门学习Python 李佳宇", "price": "¥44.43", "comnum": "72条评论", "link": "//product.dangdang.com/11085298024.html"}
+{"name": " 人工智能数学基础与Python机器学习实战", "price": "¥57.60", "comnum": "18条评论", "link": "//product.dangdang.com/29323972.html"}
+{"name": " 跟着迪哥学Python数据分析与机器学习实战", "price": "¥70.30", "comnum": "166条评论", "link": "//product.dangdang.com/27920297.html"}
+{"name": " Python快乐编程——数据分析与实战", "price": "¥34.90", "comnum": "2条评论", "link": "//product.dangdang.com/29219506.html"}
+{"name": " Python数据分析与可视化", "price": "¥38.70", "comnum": "227条评论", "link": "//product.dangdang.com/29196459.html"}
+{"name": " Python数据分析案例实战(慕课版）", "price": "¥47.20", "comnum": "15条评论", "link": "//product.dangdang.com/28981429.html"}
+{"name": " 零起点Python足彩大数据与机器学习实盘分析【正版书籍 达额立减】", "price": "¥65.99", "comnum": "680条评论", "link": "//product.dangdang.com/11068460282.html"}
+{"name": " Python编程实践 有划线 Paul Gries", "price": "¥38.29", "comnum": "44条评论", "link": "//product.dangdang.com/11128347710.html"}
+{"name": " Python程序设计基础", "price": "¥39.30", "comnum": "124条评论", "link": "//product.dangdang.com/29210094.html"}
+{"name": " Python机器学习入门", "price": "¥39.50", "comnum": "151条评论", "link": "//product.dangdang.com/29204519.html"}
+{"name": " Python学习手册 原书第5版", "price": "¥83.00", "comnum": "201条评论", "link": "//product.dangdang.com/11123827999.html"}
+{"name": " Python应用编程丛书:解析Python网络爬虫：核心技术、Scrapy框架、分布式爬虫", "price": "¥45.50", "comnum": "11条评论", "link": "//product.dangdang.com/25343952.html"}
+{"name": " Python开发技术大全", "price": "¥74.50", "comnum": "2850条评论", "link": "//product.dangdang.com/29000583.html"}
+{"name": " Python语言基础与实践", "price": "¥51.30", "comnum": "7条评论", "link": "//product.dangdang.com/29285659.html"}
+{"name": " Selenium3自动化测试实战——基于Python语言", "price": "¥46.30", "comnum": "8条评论", "link": "//product.dangdang.com/27895220.html"}
+{"name": " Python工程应用——数据分析基础与实践", "price": "¥28.50", "comnum": "2条评论", "link": "//product.dangdang.com/29201724.html"}
+{"name": " 流畅的Python 图灵程序设计丛书 Python编程从入门到精通核心编程开发程序设计 Python语言学习书籍 pyt", "price": "¥78.33", "comnum": "3条评论", "link": "//product.dangdang.com/1250169550.html"}
+{"name": " 利用Python进行数据分析【正版书籍，满额减】", "price": "¥43.33", "comnum": "692条评论", "link": "//product.dangdang.com/11103065753.html"}
+{"name": " Python语言程序设计基础 第二版 Python嵩天 python教材 python教程 python数据分析基础教程", "price": "¥36.40", "comnum": "241条评论", "link": "//product.dangdang.com/1855779288.html"}
+{"name": " 机器学习中的概率统计 Python语言描述", "price": "¥39.50", "comnum": "111条评论", "link": "//product.dangdang.com/29175298.html"}
+{"name": " Python语言程序设计", "price": "¥30.80", "comnum": "28条评论", "link": "//product.dangdang.com/23956641.html"}
+{"name": " ArcGIS Python编程基础与应用", "price": "¥52.50", "comnum": "116条评论", "link": "//product.dangdang.com/29261182.html"}
+{"name": " Python数据分析实战", "price": "¥50.10", "comnum": "213条评论", "link": "//product.dangdang.com/29213271.html"}
+{"name": " Python编程从小白到大牛", "price": "¥109.80", "comnum": "936条评论", "link": "//product.dangdang.com/29159580.html"}
+{"name": " 超好玩的Python少儿编程", "price": "¥78.20", "comnum": "1条评论", "link": "//product.dangdang.com/28534431.html"}
+{"name": " Python算法详解", "price": "¥54.50", "comnum": "831条评论", "link": "//product.dangdang.com/27880576.html"}
+{"name": " Python爬虫技术 深入理解原理、技术与开发 李宁 编", "price": "¥66.80", "comnum": "45条评论", "link": "//product.dangdang.com/1612012620.html"}
+{"name": " 实战Python网络爬虫", "price": "¥74.20", "comnum": "3条评论", "link": "//product.dangdang.com/27872249.html"}
+{"name": " Python中的图像处理", "price": "¥126.00", "comnum": "13条评论", "link": "//product.dangdang.com/29177908.html"}
+{"name": " 基于Python的ArcGIS二次开发实验实习教程", "price": "¥30.80", "comnum": "3条评论", "link": "//product.dangdang.com/29363854.html"}
+{"name": " Python程序设计任务驱动式教程（微课版）", "price": "¥47.20", "comnum": "1条评论", "link": "//product.dangdang.com/29313974.html"}
+{"name": " 【正版特价】Python自然语言处理|231816", "price": "¥36.34", "comnum": "109条评论", "link": "//product.dangdang.com/1729351025.html"}
+{"name": " Python数据结构与算法分析 第2版 数据结构算法入门 python语言实现 Python编程入门进阶图书 pytho", "price": "¥56.42", "comnum": "1条评论", "link": "//product.dangdang.com/697472492.html"}
+{"name": " Python基础编程入门", "price": "¥24.00", "comnum": "2条评论", "link": "//product.dangdang.com/29145385.html"}
+{"name": " 笨办法学Python [美]Zed A.S", "price": "¥44.03", "comnum": "1条评论", "link": "//product.dangdang.com/11086183504.html"}
+{"name": " Python数据科学手册/图灵程序设计丛书", "price": "¥78.49", "comnum": "1条评论", "link": "//product.dangdang.com/1136698979.html"}
+{"name": " Python Django Web从入门到项目实战（视频版）", "price": "¥65.28", "comnum": "910条评论", "link": "//product.dangdang.com/683094622.html"}
+{"name": " Python网络编程基础【正版图书，退换无忧】", "price": "¥29.00", "comnum": "1条评论", "link": "//product.dangdang.com/11061049317.html"}
+{"name": " Python编程快速上手 (美)斯维加特(Al Sweigart) 著;王海鹏 译 人民邮电出版社，【正版保证】", "price": "¥18.90", "comnum": "51条评论", "link": "//product.dangdang.com/11060509373.html"}
+{"name": " Python与机器学习实战:决策树、集成学习、支持向量机与神经网络算法详解及编程实现 何宇健 编著 电子工业出版社，【正", "price": "¥31.90", "comnum": "75条评论", "link": "//product.dangdang.com/11057334013.html"}
+{"name": " Python 3快速入门与实战", "price": "¥51.40", "comnum": "1条评论", "link": "//product.dangdang.com/27939404.html"}
+{"name": " Python程序设计教程(适用于高中信息技术课程改革的编程教材)", "price": "¥27.97", "comnum": "60条评论", "link": "//product.dangdang.com/1357105167.html"}
+{"name": " 流畅的Python 人民邮电出版社", "price": "¥101.50", "comnum": "1条评论", "link": "//product.dangdang.com/1386526947.html"}
+{"name": " Python程序设计基础", "price": "¥46.60", "comnum": "186条评论", "link": "//product.dangdang.com/28487949.html"}
+{"name": " Python Flask Web开发入门与项目实战", "price": "¥71.28", "comnum": "622条评论", "link": "//product.dangdang.com/11024602664.html"}
+{"name": " PYTHON设计模式 (美)韦塞尔·巴登霍斯特(Wessel Badenhorst) 清华大学出版社【正版开发票】", "price": "¥46.90", "comnum": "1条评论", "link": "//product.dangdang.com/11095522675.html"}
+{"name": " 全3册】Python编程从入门到实践+Python编程快速上手+Python极客项目编程 python程序设计基础语言数", "price": "¥198.00", "comnum": "39条评论", "link": "//product.dangdang.com/11104552719.html"}
+{"name": " 笨办法学Python 3 进阶篇 视频教学 笨方法学Python核心编程流畅的Python 编程进阶", "price": "¥41.30", "comnum": "1条评论", "link": "//product.dangdang.com/1614816445.html"}
+{"name": " Python+Excel职场办公数据分析数据工作量大的职场人士财务人士数据分析人士商务人士自动化办公用户需要处理大数据的", "price": "¥49.80", "comnum": "1条评论", "link": "//product.dangdang.com/593331127.html"}
+{"name": " 一步到位！Python从基础编程到数据分析（NumPy、matplotlib、SciPy、pandas）", "price": "¥67.30", "comnum": "103条评论", "link": "//product.dangdang.com/29140846.html"}
+{"name": " Python深度学习实战：基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别", "price": "¥49.00", "comnum": "1条评论", "link": "//product.dangdang.com/27857147.html"}
+{"name": " Python Qt GUI快速编程-PyQt编程指南【正版图书 下单立减】", "price": "¥41.19", "comnum": "1条评论", "link": "//product.dangdang.com/11071538140.html"}
+{"name": " Python基础案例教程", "price": "¥27.00", "comnum": "1条评论", "link": "//product.dangdang.com/27897053.html"}
+{"name": " Python算法详解【正版书籍，满额减】", "price": "¥43.60", "comnum": "953条评论", "link": "//product.dangdang.com/11104226113.html"}
+{"name": " Python绝技:运用Python成为顶级黑客 电子工业出版社 9787121277139 [美] TJ O'Conno", "price": "¥65.57", "comnum": "1315条评论", "link": "//product.dangdang.com/11019358672.html"}
+{"name": " Python零基础项目开发快速入门（完全自学微视频版）", "price": "¥39.90", "comnum": "1条评论", "link": "//product.dangdang.com/29142965.html"}
+{"name": " Python科学计算【正版上新】", "price": "¥53.20", "comnum": "581条评论", "link": "//product.dangdang.com/11101030807.html"}
+{"name": " Python微服务开发【正版图书 无忧售后】", "price": "¥36.78", "comnum": "186条评论", "link": "//product.dangdang.com/683820557.html"}
+{"name": " Python渗透测试实战 Python编程指南黑客攻防书入门书籍漏洞检测数据bao破教程计算机密码学与网络信息安全教材", "price": "¥69.81", "comnum": "85条评论", "link": "//product.dangdang.com/697465472.html"}
+{"name": " Python可以这样学", "price": "¥34.50", "comnum": "2946条评论", "link": "//product.dangdang.com/24180463.html"}
+{"name": " Python机器学习（原书第2版）", "price": "¥64.10", "comnum": "21条评论", "link": "//product.dangdang.com/25859443.html"}
+{"name": " Python聊天机器人开发：基于自然语言处理与机器学习", "price": "¥51.70", "comnum": "347条评论", "link": "//product.dangdang.com/28537043.html"}
+{"name": " Python深度学习实战——基于Pytorch", "price": "¥39.30", "comnum": "27条评论", "link": "//product.dangdang.com/29285843.html"}
+{"name": " Python核心编程 第三3版 习题解答 Python习题集Python从入门到实践开发进阶pyth", "price": "¥77.20", "comnum": "4条评论", "link": "//product.dangdang.com/1789128475.html"}
+{"name": " Python程序设计项目化教程（微课版）", "price": "¥39.30", "comnum": "9条评论", "link": "//product.dangdang.com/29338403.html"}
+{"name": " Python网络爬虫权威指南 第2版 Python 3网络爬虫开发实战入门教程 数据采集数据爬取数", "price": "¥59.25", "comnum": "3条评论", "link": "//product.dangdang.com/1417089236.html"}
+{"name": " Python大数据基础与实战", "price": "¥29.20", "comnum": "41条评论", "link": "//product.dangdang.com/27924345.html"}
+{"name": " 动态语言技术精品书廊·Python源码剖析:深度探索动态语言核心技术【满额减】", "price": "¥269.79", "comnum": "75条评论", "link": "//product.dangdang.com/11059280849.html"}
+{"name": " Python 3 程序设计学习指导与习题解答", "price": "¥35.50", "comnum": "2条评论", "link": "//product.dangdang.com/29146587.html"}
+{"name": " Python程序设计与算法思维/计算机科学丛书", "price": "¥97.67", "comnum": "70条评论", "link": "//product.dangdang.com/1641724489.html"}
+{"name": " PYthon 入门经典,(美)潘曲,尹鲍德,机械工业出版社，【正版保证】", "price": "¥41.90", "comnum": "6条评论", "link": "//product.dangdang.com/11051459943.html"}
+{"name": " Python爬虫技术：深入理解原理、技术与开发 宁哥大讲堂", "price": "¥69.90", "comnum": "2条评论", "link": "//product.dangdang.com/11125187369.html"}
+{"name": " Python编程快速上手让繁琐工作自动化第2二版 python从入门到精通零基础自学计算机程序设计书", "price": "¥69.00", "comnum": "2条评论", "link": "//product.dangdang.com/618634555.html"}
+{"name": " 深度强化学习：基于Python的理论及实践", "price": "¥99.40", "comnum": "21829条评论", "link": "//product.dangdang.com/29307082.html"}
+{"name": " 【赠源代码】python编程 从入门到实践python基础教程数据分析python学习手册编程入门迅速掌握Python编", "price": "¥87.00", "comnum": "28条评论", "link": "//product.dangdang.com/1609473827.html"}
+{"name": " Python核心编程（第二版） [美]丘恩（Chun,【正版书】", "price": "¥27.64", "comnum": "62条评论", "link": "//product.dangdang.com/11090160238.html"}
+{"name": " 【正版特价】Python计算与编程实践：多媒体方法(原书第2版)|217148", "price": "¥22.80", "comnum": "2条评论", "link": "//product.dangdang.com/1709250895.html"}
+{"name": " Python编程从入门到实践 Python语言程序设计基础 python3数据分析实战 计算机编程入", "price": "¥66.80", "comnum": "6939条评论", "link": "//product.dangdang.com/11052753875.html"}
+{"name": " 【正版特价】Python深度学习：基于TnsorFlow|231871", "price": "¥36.34", "comnum": "1条评论", "link": "//product.dangdang.com/1729350085.html"}
+{"name": " 码农翻身（好玩有趣的编程知识）", "price": "¥46.30", "comnum": "21条评论", "link": "//product.dangdang.com/25276414.html"}
+{"name": " Python程序设计", "price": "¥62.40", "comnum": "5条评论", "link": "//product.dangdang.com/29155203.html"}
+{"name": " Python 3破冰人工智能 从入门到实战 大学生数学建模竞赛数学建模算法与应用教程 机器学习深度学习入门书", "price": "¥41.30", "comnum": "1条评论", "link": "//product.dangdang.com/1409832136.html"}
+{"name": " 【正版特价】Python机器学习（原书第2版）|231970", "price": "¥42.72", "comnum": "5条评论", "link": "//product.dangdang.com/1734397855.html"}
+{"name": " Python机器学习实践指南", "price": "¥54.50", "comnum": "21条评论", "link": "//product.dangdang.com/25066760.html"}
+{"name": " Python绝技(运用Python成为顶级黑客)/安全技术大系", "price": "¥41.08", "comnum": "200条评论", "link": "//product.dangdang.com/11016876094.html"}
+{"name": " python语言程序设计基础 第2版 嵩天Python编程从入门到实践 python基础教程python编程书籍 pyt", "price": "¥38.00", "comnum": "6条评论", "link": "//product.dangdang.com/1810553398.html"}
+{"name": " Python程序设计教程：基于案例的学习方法（原书第3版）", "price": "¥64.40", "comnum": "1条评论", "link": "//product.dangdang.com/29272059.html"}
+{"name": " Python 3 基础教程（*2版）（慕课版）", "price": "¥39.84", "comnum": "1条评论", "link": "//product.dangdang.com/1594988775.html"}
+{"name": " 全新Python程序设计 陈春晖 Python的Web应用程序开发 程序设计的基本技能 高等院校计算机技术应用课程教材", "price": "¥37.00", "comnum": "4条评论", "link": "//product.dangdang.com/11014850387.html"}
+{"name": " Python量化交易：策略、技巧与实战 量化交易策略 深层次剖析 实战应用案列 普通投资者也能玩转量化投资 JoinQu", "price": "¥66.00", "comnum": "246条评论", "link": "//product.dangdang.com/1778132909.html"}
+{"name": " Python少儿趣味编程 教孩子学编程 少儿编程入门教程图书 零基础自学python编程 青少年编程真好玩", "price": "¥51.75", "comnum": "14条评论", "link": "//product.dangdang.com/1534660915.html"}
+{"name": " Python数据分析与应用：从数据获取到可视化", "price": "¥43.30", "comnum": "50条评论", "link": "//product.dangdang.com/26917322.html"}
+{"name": " Python 快速入门 第三3版 Python编程基础教程从入门到实践 快速上手零基础学Python", "price": "¥66.75", "comnum": "31条评论", "link": "//product.dangdang.com/1510373065.html"}
+{"name": " Python编程：从入门到精通（微课版）", "price": "¥41.60", "comnum": "2条评论", "link": "//product.dangdang.com/1742865455.html"}
+{"name": " Python程序开发 python教程自学入门 py编程爬虫实战 py数据分析可视化 py机器学习基", "price": "¥54.40", "comnum": "50条评论", "link": "//product.dangdang.com/11103579113.html"}
+{"name": " Python程序设计", "price": "¥28.00", "comnum": "110条评论", "link": "//product.dangdang.com/1678892565.html"}
+{"name": " Python编程从入门到实践 python编程从入门到实战零基础自学教程计算机基础小甲鱼语言数据分析程序设计pathon", "price": "¥88.80", "comnum": "7条评论", "link": "//product.dangdang.com/1675923891.html"}
+{"name": " Python算法指南——程序员经典算法分析与实现", "price": "¥59.50", "comnum": "823条评论", "link": "//product.dangdang.com/27941769.html"}
+{"name": " Python程序设计基础与案例教程", "price": "¥50.10", "comnum": "118条评论", "link": "//product.dangdang.com/29130012.html"}
+{"name": " Python程序设计 从编程基础到专业应用", "price": "¥33.10", "comnum": "1条评论", "link": "//product.dangdang.com/26916586.html"}
+{"name": " Python编程 从入门到实践9787115428028,[美]埃里克·马瑟斯(Eric Matthes),人民邮电出版", "price": "¥61.90", "comnum": "1条评论", "link": "//product.dangdang.com/1792822134.html"}
+{"name": " Python数据分析与应用(大数据人才培养规划教材)", "price": "¥35.36", "comnum": "279条评论", "link": "//product.dangdang.com/1177429769.html"}
+{"name": " Python常用统计算法", "price": "¥112.50", "comnum": "515条评论", "link": "//product.dangdang.com/29282251.html"}
+{"name": " Python语言程序设计", "price": "¥35.30", "comnum": "33条评论", "link": "//product.dangdang.com/26914379.html"}
+{"name": " 【官方旗舰店】中学生Python创意编程 青少年趣味游戏编程Python少儿编程教材基础入门青少年编程学Python计算", "price": "¥53.80", "comnum": "8条评论", "link": "//product.dangdang.com/1732086375.html"}
+{"name": " 面向中小学教师的Python编程入门", "price": "¥24.00", "comnum": "2条评论", "link": "//product.dangdang.com/29124963.html"}
+{"name": " Python学习手册(美)鲁特兹 著,侯靖 等译【正版图书，退换无忧】", "price": "¥34.40", "comnum": "1069条评论", "link": "//product.dangdang.com/11103293242.html"}
+{"name": " Python股票量化交易从入门到实践 股票炒股书籍趋势技术分析入门基础知识 量化投资金融大数据风控金", "price": "¥74.85", "comnum": "160条评论", "link": "//product.dangdang.com/1644925065.html"}
+{"name": " Python程序开发(*级) python编程语言程序设计教程入门到实战自学 py数据分析爬虫 深度", "price": "¥54.40", "comnum": "9条评论", "link": "//product.dangdang.com/11114193304.html"}
+{"name": " Python程序设计基础与应用 第2版", "price": "¥47.30", "comnum": "9条评论", "link": "//product.dangdang.com/29361109.html"}
+{"name": " Python程序设计 第3版 Python之父作序推荐编程入门教程书籍 Python3自学教程书", "price": "¥51.75", "comnum": "11条评论", "link": "//product.dangdang.com/1362740669.html"}
+{"name": " 零基础学Python——基于PyCharm IDE", "price": "¥46.60", "comnum": "125条评论", "link": "//product.dangdang.com/29208328.html"}
+{"name": " Python程序设计与算法思维", "price": "¥90.40", "comnum": "168条评论", "link": "//product.dangdang.com/28970697.html"}
+{"name": " Python基础与PyQt可视化编程详解", "price": "¥100.30", "comnum": "21条评论", "link": "//product.dangdang.com/29296965.html"}
+{"name": " Python程序设计/葛宇", "price": "¥39.30", "comnum": "1条评论", "link": "//product.dangdang.com/11092646466.html"}
+{"name": " Alink权威指南：基于Flink的机器学习实例入门（Python）", "price": "¥111.70", "comnum": "182条评论", "link": "//product.dangdang.com/29394549.html"}
+{"name": " Python 3 程序设计", "price": "¥39.30", "comnum": "254条评论", "link": "//product.dangdang.com/26909455.html"}
+{"name": " pandas数据预处理详解日系图书 python机器学习 深度学习 大数据处理 数据分析 数据之道 人工智能 深入浅出p", "price": "¥64.00", "comnum": "408条评论", "link": "//product.dangdang.com/29316742.html"}
+{"name": " Python高手修炼之道：数据处理与机器学习实战", "price": "¥62.40", "comnum": "1440条评论", "link": "//product.dangdang.com/29149289.html"}
+{"name": " Python+Spark 2.0+Hadoop机器学习与大数据实战", "price": "¥74.20", "comnum": "150条评论", "link": "//product.dangdang.com/25213411.html"}
+{"name": " Python Web开发从入门到精通", "price": "¥72.20", "comnum": "10条评论", "link": "//product.dangdang.com/29128606.html"}
+{"name": " Python数据分析", "price": "¥41.60", "comnum": "516条评论", "link": "//product.dangdang.com/29321301.html"}
+{"name": " OpenCV图像处理入门与实践", "price": "¥39.90", "comnum": "714条评论", "link": "//product.dangdang.com/29318740.html"}
+{"name": " 从Excel到Python：用Python轻松处理Excel数据", "price": "¥53.00", "comnum": "79条评论", "link": "//product.dangdang.com/29197304.html"}
+{"name": " OpenCV 4.5计算机视觉开发实战：基于Python", "price": "¥59.20", "comnum": "1296条评论", "link": "//product.dangdang.com/29363176.html"}
+{"name": " Python人脸识别：从入门到工程实践", "price": "¥34.50", "comnum": "25条评论", "link": "//product.dangdang.com/27859582.html"}
+{"name": " Python大数据基础", "price": "¥30.70", "comnum": "16条评论", "link": "//product.dangdang.com/28972089.html"}
+{"name": " Python数据分析与应用", "price": "¥26.20", "comnum": "30条评论", "link": "//product.dangdang.com/28989900.html"}
+{"name": " Python数据可视化", "price": "¥39.30", "comnum": "128条评论", "link": "//product.dangdang.com/29217327.html"}
+{"name": " Python金融数据分析（原书第2版）", "price": "¥57.90", "comnum": "111条评论", "link": "//product.dangdang.com/29233720.html"}
+{"name": " Python金融数据挖掘", "price": "¥45.60", "comnum": "577条评论", "link": "//product.dangdang.com/29123911.html"}
+{"name": " NCT全国青少年编程能力等级测试教程：Python语言编程一级", "price": "¥52.20", "comnum": "1319条评论", "link": "//product.dangdang.com/29117889.html"}
+{"name": " 大话Python机器学习", "price": "¥67.30", "comnum": "2条评论", "link": "//product.dangdang.com/27874150.html"}
+{"name": " Python程序设计基础教程 9787302572404清华社 计算机科学与技术软件工具Python程序设计 Pytho", "price": "¥45.00", "comnum": "660条评论", "link": "//product.dangdang.com/678176599.html"}
+{"name": " 精通Python设计模式 第2版", "price": "¥38.70", "comnum": "136条评论", "link": "//product.dangdang.com/28514904.html"}
+{"name": " Python 自动化接口测试自学手册", "price": "¥55.10", "comnum": "756条评论", "link": "//product.dangdang.com/29140329.html"}
+{"name": " 父与子的编程之旅：与爸爸一起学Python", "price": "¥32.30", "comnum": "31条评论", "link": "//product.dangdang.com/28486681.html"}
+{"name": " Python程序开发 初级", "price": "¥34.90", "comnum": "304条评论", "link": "//product.dangdang.com/29334517.html"}
+{"name": " Python深度学习：逻辑 算法与编程实战", "price": "¥94.00", "comnum": "1条评论", "link": "//product.dangdang.com/28996648.html"}
+{"name": " Python Qt GUI与数据可视化编程 王维波 栗宝鹃 王维波、栗宝鹃、张晓", "price": "¥66.32", "comnum": "78条评论", "link": "//product.dangdang.com/11098002328.html"}
+{"name": " 笨办法学Python 3 编程从入门到实践教程书 Python基础教程自学书籍 代码基于Python3.6", "price": "¥38.50", "comnum": "43条评论", "link": "//product.dangdang.com/1333617569.html"}
+{"name": " Python编程轻松入门 北京八中老师教你学编程", "price": "¥44.90", "comnum": "223条评论", "link": "//product.dangdang.com/29311960.html"}
+{"name": " 计量经济分析及其Python应用", "price": "¥46.70", "comnum": "170条评论", "link": "//product.dangdang.com/29171150.html"}
+{"name": " Python机器学习实战", "price": "¥34.50", "comnum": "48条评论", "link": "//product.dangdang.com/29194802.html"}
+{"name": " Python大数据分析与应用实战", "price": "¥86.10", "comnum": "19条评论", "link": "//product.dangdang.com/29325139.html"}
+{"name": " Python程序设计基础（原书第5版）", "price": "¥118.10", "comnum": "98条评论", "link": "//product.dangdang.com/29315877.html"}
+{"name": " Python Django Web从入门到项目实战（视频版）", "price": "¥96.00", "comnum": "25条评论", "link": "//product.dangdang.com/29287338.html"}
+{"name": " Python图形化编程 学科项目式编程（五年级）", "price": "¥30.40", "comnum": "21条评论", "link": "//product.dangdang.com/29304774.html"}
+{"name": " Python编程项目案例实战（微课视频版）", "price": "¥33.90", "comnum": "5条评论", "link": "//product.dangdang.com/29293861.html"}
+{"name": " 笨办法学python3编程从入门到实践 python基础教程核心编程从入门到精通 笨方法学python视频程序设计教材计", "price": "¥31.46", "comnum": "109条评论", "link": "//product.dangdang.com/1293529785.html"}
+{"name": " 笨办法学Python 3基础篇+进阶篇 基础教程核心编程从入门到实践 零基础自学教材python视频", "price": "¥82.60", "comnum": "3452条评论", "link": "//product.dangdang.com/1623053515.html"}
+{"name": " 量化交易之路 用Python做股票量化分析", "price": "¥44.50", "comnum": "257条评论", "link": "//product.dangdang.com/25159105.html"}
+{"name": " Python 3.8从零开始学", "price": "¥59.80", "comnum": "125条评论", "link": "//product.dangdang.com/28541643.html"}
+{"name": " Python编程完全自学教程", "price": "¥72.20", "comnum": "55条评论", "link": "//product.dangdang.com/29205716.html"}
+{"name": " Python基础入门-微课视频版", "price": "¥33.80", "comnum": "134条评论", "link": "//product.dangdang.com/29121404.html"}
+{"name": " Python第三方库开发应用实战", "price": "¥78.20", "comnum": "135条评论", "link": "//product.dangdang.com/28553318.html"}
+{"name": " Python计算机视觉和自然语言处理 开发机器人应用系统", "price": "¥44.90", "comnum": "43条评论", "link": "//product.dangdang.com/29248753.html"}
+{"name": " Python自动化运维实战 运维工程师系统运维教程书籍 软件自动化测试开发技术 DevOps实战", "price": "¥55.30", "comnum": "125条评论", "link": "//product.dangdang.com/1590830925.html"}
+{"name": " Python语言", "price": "¥47.20", "comnum": "79条评论", "link": "//product.dangdang.com/26512016.html"}
+{"name": " Python数据分析", "price": "¥49.50", "comnum": "116条评论", "link": "//product.dangdang.com/28558349.html"}
+{"name": " Python 3网络爬虫实战", "price": "¥59.20", "comnum": "1条评论", "link": "//product.dangdang.com/28996684.html"}
+{"name": " Python程序开发", "price": "¥34.90", "comnum": "97条评论", "link": "//product.dangdang.com/29375740.html"}
+{"name": " Python语言程序设计", "price": "¥33.10", "comnum": "292条评论", "link": "//product.dangdang.com/25198439.html"}
+{"name": " 自己动手写Python虚拟机", "price": "¥39.50", "comnum": "302条评论", "link": "//product.dangdang.com/27886076.html"}
+{"name": " 数字图像处理与Python实现", "price": "¥39.30", "comnum": "17条评论", "link": "//product.dangdang.com/29121467.html"}
+{"name": " Python程序设计与实践", "price": "¥50.90", "comnum": "92条评论", "link": "//product.dangdang.com/29216104.html"}
+{"name": " Python程序设计：人工智能案例实践", "price": "¥113.20", "comnum": "56条评论", "link": "//product.dangdang.com/29236960.html"}
+{"name": " Python基础与大数据应用实战", "price": "¥18.70", "comnum": "5117条评论", "link": "//product.dangdang.com/27931221.html"}
+{"name": " Python网络爬虫权威指南 第2版【正版上新】", "price": "¥39.18", "comnum": "509条评论", "link": "//product.dangdang.com/11102428607.html"}
+{"name": " 从零开始学Python数据分析与挖掘（第2版）", "price": "¥59.80", "comnum": "27条评论", "link": "//product.dangdang.com/28551660.html"}
+{"name": " Python统计分析 建模 数据分析 讲述统计数据分析与应用 Springer\"统计和计算\"系列从书", "price": "¥59.25", "comnum": "35条评论", "link": "//product.dangdang.com/1382655015.html"}
+{"name": " Python数据预处理", "price": "¥31.40", "comnum": "264条评论", "link": "//product.dangdang.com/29262485.html"}
+{"name": " Python大数据分析从入门到精通", "price": "¥57.60", "comnum": "3条评论", "link": "//product.dangdang.com/29136167.html"}
+{"name": " Python大数据分析与挖掘实战 微课版 黄恒秋 Python基础入门书籍 Python科学计算", "price": "¥46.90", "comnum": "120条评论", "link": "//product.dangdang.com/11000324157.html"}
+{"name": " Python超入门 从基础入门到人工智能应用 全彩印刷", "price": "¥39.50", "comnum": "129条评论", "link": "//product.dangdang.com/29212989.html"}
+{"name": " Python爬虫超详细实战攻略-微课视频版", "price": "¥44.50", "comnum": "2198条评论", "link": "//product.dangdang.com/29216105.html"}
+{"name": " 深入浅出Python机器学习", "price": "¥34.50", "comnum": "488条评论", "link": "//product.dangdang.com/25314043.html"}
+{"name": " 计算机二级python 2022年考试3月考试计算机python上机题库 二级python2022 全国计算机等级考试", "price": "¥36.00", "comnum": "3243条评论", "link": "//product.dangdang.com/1502991171.html"}
+{"name": " 趣学Python——教孩子学编程", "price": "¥46.50", "comnum": "13条评论", "link": "//product.dangdang.com/23648843.html"}
+{"name": " Python核心编程 第3版(第3版) 人民邮电出版社", "price": "¥49.50", "comnum": "25条评论", "link": "//product.dangdang.com/1476995646.html"}
+{"name": " Python程序设计及应用", "price": "¥33.60", "comnum": "1条评论", "link": "//product.dangdang.com/29314348.html"}
+{"name": " Python机器学习入门：机器学习算法的理论与实践", "price": "¥39.50", "comnum": "314条评论", "link": "//product.dangdang.com/29375538.html"}
+{"name": " 零基础入门Python游戏", "price": "¥39.50", "comnum": "922条评论", "link": "//product.dangdang.com/29131959.html"}
+{"name": " Python爬虫开发 从入门到实战（微课版）", "price": "¥39.30", "comnum": "77条评论", "link": "//product.dangdang.com/25349717.html"}
+{"name": " Python+Tableau数据可视化之美", "price": "¥64.40", "comnum": "1508条评论", "link": "//product.dangdang.com/29289679.html"}
+{"name": " Python数据分析 第2版", "price": "¥54.50", "comnum": "271条评论", "link": "//product.dangdang.com/25278605.html"}
+{"name": " Python数据预处理技术与实践", "price": "¥51.70", "comnum": "25条评论", "link": "//product.dangdang.com/28486435.html"}
+{"name": " Python核心编程 【上新】", "price": "¥34.89", "comnum": "109条评论", "link": "//product.dangdang.com/11138618620.html"}
+{"name": " 统计学——Python实现", "price": "¥40.00", "comnum": "1条评论", "link": "//product.dangdang.com/29347837.html"}
+{"name": " Python从入门到精通", "price": "¥62.40", "comnum": "2条评论", "link": "//product.dangdang.com/28507693.html"}
+{"name": " python编程从入门到实践+利用python进行数据分析+python网络爬虫从入门到实践python编程书籍 pyt", "price": "¥286.00", "comnum": "1条评论", "link": "//product.dangdang.com/697473122.html"}
+{"name": " 【正版清仓】 Python编程练习与解答 本·斯蒂芬森 9787302569558 清华大学出版社", "price": "¥34.86", "comnum": "3条评论", "link": "//product.dangdang.com/678133721.html"}
+{"name": " Python神经网络编程【正版上新】", "price": "¥30.40", "comnum": "2条评论", "link": "//product.dangdang.com/11101030837.html"}
+{"name": " 全3册】Python编程从入门到实践+Python编程快速上手+Python客项目编程 python程序设计基础语言数据", "price": "¥199.50", "comnum": "1条评论", "link": "//product.dangdang.com/644131050.html"}
+{"name": " Python核心编程（第二版） [美]丘恩（Chun,【正版书】", "price": "¥77.03", "comnum": "68条评论", "link": "//product.dangdang.com/11087833424.html"}
+{"name": " (教)Python在数据分析中的应用——统计分析方法与计量模型实践", "price": "¥30.00", "comnum": "131条评论", "link": "//product.dangdang.com/29373169.html"}
+{"name": " Python数据分析基础教程—— 数据可视化（第2版）", "price": "¥37.90", "comnum": "2条评论", "link": "//product.dangdang.com/29178508.html"}
+{"name": " Python数据可视化方法、实践与应用", "price": "¥39.50", "comnum": "15条评论", "link": "//product.dangdang.com/29201498.html"}
+{"name": " Python数据处理、分析、可视化与数据化运营", "price": "¥39.84", "comnum": "978条评论", "link": "//product.dangdang.com/1733767675.html"}
+{"name": " 包邮 深入浅出Pandas：利用Python进行数据处理与分析|8082133", "price": "¥69.30", "comnum": "204条评论", "link": "//product.dangdang.com/677213782.html"}
+{"name": " 物联网Python开发实战", "price": "¥40.70", "comnum": "761条评论", "link": "//product.dangdang.com/25244043.html"}
+{"name": " 用Python学数学", "price": "¥86.70", "comnum": "2条评论", "link": "//product.dangdang.com/29251971.html"}
+{"name": " Python地理数据处理", "price": "¥62.40", "comnum": "733条评论", "link": "//product.dangdang.com/25097337.html"}
+{"name": " Python数据处理/图灵程序设计丛书", "price": "¥69.96", "comnum": "253条评论", "link": "//product.dangdang.com/1312398767.html"}
+{"name": " Python自动化测试实战", "price": "¥34.90", "comnum": "3条评论", "link": "//product.dangdang.com/27856966.html"}
+{"name": " Python趣味编程与精彩实例", "price": "¥47.20", "comnum": "222条评论", "link": "//product.dangdang.com/28512724.html"}
+{"name": " 明解Python python编程自学入门基础教程 py爬虫入门案例实战 py数据分析可视化指导 p", "price": "¥101.20", "comnum": "1条评论", "link": "//product.dangdang.com/11103572103.html"}
+{"name": " 一步到位！Python数据科学与人工智能应用实战（NumPy、Pandas、Matplotlib、Scikit-lear", "price": "¥81.00", "comnum": "450条评论", "link": "//product.dangdang.com/29171208.html"}
+{"name": " Python程序开发中级 python考试自学入门基础教程 py程序开发与设计 py编程教程数据分析", "price": "¥54.40", "comnum": "8条评论", "link": "//product.dangdang.com/11103574673.html"}
+{"name": " Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习", "price": "¥34.50", "comnum": "254条评论", "link": "//product.dangdang.com/26435983.html"}
+{"name": " Python计算机视觉编程", "price": "¥51.75", "comnum": "30条评论", "link": "//product.dangdang.com/1231686697.html"}
+{"name": " 数据荒岛求生——从Excel数据分析到Python数据分析 数据可视化 数据之道 数据治理 数据中台 大数据分析 数据建", "price": "¥34.50", "comnum": "1258条评论", "link": "//product.dangdang.com/29225654.html"}
+{"name": " 包邮 [套装书]Python学习手册（原书第5版）+Python 3标准库（2册|8067181", "price": "¥284.24", "comnum": "2529条评论", "link": "//product.dangdang.com/1571659345.html"}
+{"name": " Python程序员面试算法宝典", "price": "¥42.30", "comnum": "67条评论", "link": "//product.dangdang.com/25351230.html"}
+{"name": " Python编程快速上手 让繁琐工作自动化【正版上新】", "price": "¥29.71", "comnum": "386条评论", "link": "//product.dangdang.com/11101030687.html"}
+{"name": " Python程序设计 第3版", "price": "¥54.50", "comnum": "26条评论", "link": "//product.dangdang.com/25218232.html"}
+{"name": " Python大学教程：面向计算机科学和数据科学（英文版）", "price": "¥120.00", "comnum": "36条评论", "link": "//product.dangdang.com/29213855.html"}
+{"name": " 用Python动手学机器学习", "price": "¥44.50", "comnum": "254条评论", "link": "//product.dangdang.com/29216378.html"}
+{"name": " Python程序设计基础教程（慕课版）", "price": "¥55.10", "comnum": "167条评论", "link": "//product.dangdang.com/29302189.html"}
+{"name": " Python编程从入门到精通 计算机电脑编程入门自学零基础教程全套书籍 pathon编程从入门到实践python基础教程", "price": "¥49.80", "comnum": "1334条评论", "link": "//product.dangdang.com/1784265932.html"}
+{"name": " Python人工智能", "price": "¥29.90", "comnum": "184条评论", "link": "//product.dangdang.com/28541651.html"}
+{"name": " 图解Python+图解算法 轻松快速掌握实力派脚本语言&程序设计精华（套装2册）", "price": "¥69.90", "comnum": "78条评论", "link": "//product.dangdang.com/28990078.html"}
+{"name": " Python测试之道", "price": "¥47.20", "comnum": "11条评论", "link": "//product.dangdang.com/25293877.html"}
+{"name": " 基于Python的无监督学习", "price": "¥49.00", "comnum": "12条评论", "link": "//product.dangdang.com/29175663.html"}
+{"name": " Python数据分析编程超级魔卡", "price": "¥20.00", "comnum": "155条评论", "link": "//product.dangdang.com/29277390.html"}
+{"name": " Python算法从入门到实践", "price": "¥44.70", "comnum": "142条评论", "link": "//product.dangdang.com/29236469.html"}
+{"name": " 计算思维与Python语言程序设计（提高篇）", "price": "¥27.00", "comnum": "997条评论", "link": "//product.dangdang.com/29388406.html"}
+{"name": " Django实战 Python Web典型模块与项目开发", "price": "¥85.30", "comnum": "24条评论", "link": "//product.dangdang.com/29138269.html"}
+{"name": " Python程序设计基础教程", "price": "¥38.70", "comnum": "16480条评论", "link": "//product.dangdang.com/29265938.html"}
+{"name": " 教孩子学编程 Python语言版", "price": "¥39.60", "comnum": "219条评论", "link": "//product.dangdang.com/23928893.html"}
+{"name": " Python青少年编程魔法课堂（案例+视频教学版）", "price": "¥49.50", "comnum": "4条评论", "link": "//product.dangdang.com/29143914.html"}
+{"name": " 计算思维与python语言程序设计（基础篇）", "price": "¥21.00", "comnum": "10条评论", "link": "//product.dangdang.com/29388429.html"}
+{"name": " Python游戏化编程", "price": "¥27.00", "comnum": "21条评论", "link": "//product.dangdang.com/29195295.html"}
+{"name": " Python快速编程入门（*2版）", "price": "¥38.80", "comnum": "173条评论", "link": "//product.dangdang.com/1842261430.html"}
+{"name": " Python语言程序设计实训（微课版）", "price": "¥25.50", "comnum": "5条评论", "link": "//product.dangdang.com/29206980.html"}
+{"name": " Python强化学习实战：使用OpenAI Gym、TensorFlow和Keras", "price": "¥37.30", "comnum": "38条评论", "link": "//product.dangdang.com/29211994.html"}
+{"name": " Python 3 基础教程实验指导与习题集（微课版）", "price": "¥23.84", "comnum": "122条评论", "link": "//product.dangdang.com/1687751915.html"}
+{"name": " Python数据挖掘技术及应用（微课版）", "price": "¥34.50", "comnum": "387条评论", "link": "//product.dangdang.com/29285937.html"}
+{"name": " 精通Python网络编程（第三版）", "price": "¥64.00", "comnum": "185条评论", "link": "//product.dangdang.com/29187989.html"}
+{"name": " 中学生Python创意编程", "price": "¥54.50", "comnum": "6233条评论", "link": "//product.dangdang.com/29118159.html"}
+{"name": " Python元学习 通用人工智能的实现", "price": "¥46.60", "comnum": "454条评论", "link": "//product.dangdang.com/28982765.html"}
+{"name": " Python自然语言处理", "price": "¥59.70", "comnum": "3条评论", "link": "//product.dangdang.com/23503127.html"}
+{"name": " 算法—Python语言实现", "price": "¥39.90", "comnum": "92条评论", "link": "//product.dangdang.com/29116672.html"}
+{"name": " Python编程从入门到精通 第2二版计算机电脑编程入门自学零基础教程全套书籍 pathon编程从入门到实践python", "price": "¥46.40", "comnum": "231条评论", "link": "//product.dangdang.com/1766640187.html"}
+{"name": " PYTHON基础教程(第3版) 人民邮电出版社", "price": "¥49.50", "comnum": "255条评论", "link": "//product.dangdang.com/1485860357.html"}
+{"name": " 流畅的Python 语言程序设计 python核心编程 python数据分析代码大全 入门到精通教程 Python网络爬", "price": "¥95.90", "comnum": "249条评论", "link": "//product.dangdang.com/1369218747.html"}
+{"name": " Python 3.8从入门到精通（视频教学版）", "price": "¥66.70", "comnum": "468条评论", "link": "//product.dangdang.com/28541649.html"}
+{"name": " 全国计算机等级考试教程 二级Python语言程序设计", "price": "¥21.00", "comnum": "3条评论", "link": "//product.dangdang.com/29299171.html"}
+{"name": " 基于Python语言的Selenium自动化测试", "price": "¥59.80", "comnum": "24条评论", "link": "//product.dangdang.com/28510823.html"}
+{"name": " Python物理学高效计算 Python编程教程 Python物理建模程序设计书籍 数据可视化 控制", "price": "¥77.22", "comnum": "15条评论", "link": "//product.dangdang.com/1230043397.html"}
+{"name": " 利用Python进行数据分析 Wes McKinn,【正版书】", "price": "¥30.90", "comnum": "294条评论", "link": "//product.dangdang.com/11070109919.html"}
+{"name": " Python程序设计项目学习课堂（微课版）", "price": "¥73.50", "comnum": "324条评论", "link": "//product.dangdang.com/29353546.html"}
+{"name": " Web接口开发与自动化测试:基于Python语言 虫师 编著", "price": "¥33.00", "comnum": "6条评论", "link": "//product.dangdang.com/1310032747.html"}
+{"name": " Python实战指南——手把手教你掌握300个精彩案例", "price": "¥66.70", "comnum": "296条评论", "link": "//product.dangdang.com/29000151.html"}
+{"name": " OpenCV 4详解：基于Python", "price": "¥49.90", "comnum": "2条评论", "link": "//product.dangdang.com/29286744.html"}
+{"name": " Python与数据分析及可视化（微课视频版）", "price": "¥24.90", "comnum": "966条评论", "link": "//product.dangdang.com/29369895.html"}
+{"name": " 我跟爸爸学编程：从Python到C++", "price": "¥29.50", "comnum": "443条评论", "link": "//product.dangdang.com/28975037.html"}
+{"name": " Python网络爬虫技术手册：基础·实战·强化", "price": "¥64.00", "comnum": "25条评论", "link": "//product.dangdang.com/29369059.html"}
+{"name": " Python树莓派编程", "price": "¥24.50", "comnum": "4条评论", "link": "//product.dangdang.com/24102279.html"}
+{"name": " Python网络爬虫开发从入门到精通", "price": "¥59.20", "comnum": "61条评论", "link": "//product.dangdang.com/28496650.html"}
+{"name": " Python数据分析从0到1", "price": "¥64.50", "comnum": "5条评论", "link": "//product.dangdang.com/29362085.html"}
+{"name": " Python程序设计（高职）", "price": "¥30.70", "comnum": "3条评论", "link": "//product.dangdang.com/29223366.html"}
+{"name": " Python程序设计", "price": "¥58.60", "comnum": "998条评论", "link": "//product.dangdang.com/28498191.html"}
+{"name": " Python编程基础与自动化测试", "price": "¥54.50", "comnum": "3条评论", "link": "//product.dangdang.com/29378833.html"}
+{"name": " Python机器学习基础教程 计算机与互联网 编程语言与程序设计机器学习人工智能", "price": "¥59.30", "comnum": "41条评论", "link": "//product.dangdang.com/1167077977.html"}
+{"name": " Python Web开发实战 董伟明 著 电子工业出版社，【正版保证】", "price": "¥20.90", "comnum": "294条评论", "link": "//product.dangdang.com/11057248743.html"}
+{"name": " Python渗透测试编程技术：方法与实践", "price": "¥51.70", "comnum": "151条评论", "link": "//product.dangdang.com/26482920.html"}
+{"name": " Python期货量化交易 Python期货量化交易实战从入门到实践基于Python的金融分析与风险管", "price": "¥85.60", "comnum": "3364条评论", "link": "//product.dangdang.com/11085586403.html"}
+{"name": " Python趣味创意编程 青少年Python创意编程少儿编程中小学生计算机编程真好玩趣味编程入门Py", "price": "¥61.60", "comnum": "4144条评论", "link": "//product.dangdang.com/1862869570.html"}
+{"name": " Numpy数据处理详解——Python机器学习和数据科学中的高性能计算方法", "price": "¥64.00", "comnum": "4813条评论", "link": "//product.dangdang.com/29297983.html"}
+{"name": " Python深度学习", "price": "¥34.50", "comnum": "1601条评论", "link": "//product.dangdang.com/29181071.html"}
+{"name": " 趣学Python编程", "price": "¥35.50", "comnum": "518条评论", "link": "//product.dangdang.com/23426467.html"}
+{"name": " Python从菜鸟到高手", "price": "¥64.00", "comnum": "940条评论", "link": "//product.dangdang.com/25333314.html"}
+{"name": " 基于Python的金融分析与风险管理", "price": "¥93.20", "comnum": "1038条评论", "link": "//product.dangdang.com/27943466.html"}
+{"name": " 强化学习：原理与Python实现", "price": "¥44.50", "comnum": "67条评论", "link": "//product.dangdang.com/27907711.html"}
+{"name": " Python自动化运维实战", "price": "¥62.40", "comnum": "1414条评论", "link": "//product.dangdang.com/28530456.html"}
+{"name": " python在机器学习中的应用", "price": "¥39.90", "comnum": "33条评论", "link": "//product.dangdang.com/27874149.html"}
+{"name": " Python网络爬虫从入门到实践 第2版", "price": "¥34.50", "comnum": "24条评论", "link": "//product.dangdang.com/27882003.html"}
+{"name": " Python程序设计应用教程 （第2版）", "price": "¥44.30", "comnum": "13条评论", "link": "//product.dangdang.com/29203300.html"}
+{"name": " Python深度学习：基于TensorFlow", "price": "¥39.50", "comnum": "843条评论", "link": "//product.dangdang.com/25479613.html"}
+{"name": " Python量化金融与人工智能", "price": "¥58.60", "comnum": "49条评论", "link": "//product.dangdang.com/29279853.html"}
+{"name": " Python高性能编程", "price": "¥62.40", "comnum": "1952条评论", "link": "//product.dangdang.com/25098886.html"}
+{"name": " Python绝技:运用Python成为很好黑客 (美)奥科罗(TJ.O'Connor) 著;崔孝晨 等 译", "price": "¥44.20", "comnum": "16条评论", "link": "//product.dangdang.com/1091356472.html"}
+{"name": " Python 3高级教程（第3版）", "price": "¥66.70", "comnum": "247条评论", "link": "//product.dangdang.com/29156568.html"}
+{"name": " 机器学习线性代数基础：Python语言描述", "price": "¥35.70", "comnum": "2613条评论", "link": "//product.dangdang.com/27921482.html"}
+{"name": " Python密码学编程", "price": "¥59.80", "comnum": "106条评论", "link": "//product.dangdang.com/29261873.html"}
+{"name": " Python数据挖掘入门与实践 第2版", "price": "¥62.40", "comnum": "196条评论", "link": "//product.dangdang.com/28529103.html"}
+{"name": " 量化投资：以Python为工具", "price": "¥96.00", "comnum": "5061条评论", "link": "//product.dangdang.com/29256291.html"}
+{"name": " Python实战速成手册 数据分析+机器学习+深度学习", "price": "¥34.90", "comnum": "4条评论", "link": "//product.dangdang.com/29375738.html"}
+{"name": " Python数据挖掘入门与实践【正版特惠 满额立减】", "price": "¥8.52", "comnum": "2条评论", "link": "//product.dangdang.com/11130336802.html"}
+{"name": " 利用Python进行数据分析【满额减】", "price": "¥39.20", "comnum": "57条评论", "link": "//product.dangdang.com/655408946.html"}
+{"name": " Python程序设计案例教程——从入门到机器学习（第2版）（微课版）", "price": "¥42.30", "comnum": "257条评论", "link": "//product.dangdang.com/29246961.html"}
+{"name": " 写给新手的深度学习——用Python学习神经网络和反向传播", "price": "¥44.90", "comnum": "391条评论", "link": "//product.dangdang.com/29238213.html"}
+{"name": " 数亦有道 Python数据科学指南", "price": "¥44.90", "comnum": "212条评论", "link": "//product.dangdang.com/29307621.html"}
+{"name": " Python程序设计实验指导书", "price": "¥33.10", "comnum": "284条评论", "link": "//product.dangdang.com/27856609.html"}
+{"name": " Python趣味创意编程", "price": "¥39.50", "comnum": "28条评论", "link": "//product.dangdang.com/29188794.html"}
+{"name": " 离散数学及其应用——Python建模与实现", "price": "¥44.20", "comnum": "365条评论", "link": "//product.dangdang.com/29345552.html"}
+{"name": " Python自动化开发实战", "price": "¥51.70", "comnum": "1187条评论", "link": "//product.dangdang.com/27866832.html"}
+{"name": " Python黑客攻防入门", "price": "¥41.30", "comnum": "108条评论", "link": "//product.dangdang.com/25219985.html"}
+{"name": " Python快速编程入门（第2版）", "price": "¥39.30", "comnum": "396条评论", "link": "//product.dangdang.com/29177465.html"}
+{"name": " Python程序员面试笔试宝典", "price": "¥70.30", "comnum": "16条评论", "link": "//product.dangdang.com/28532402.html"}
+{"name": " Python数据分析教科书", "price": "¥44.90", "comnum": "1969条评论", "link": "//product.dangdang.com/29345757.html"}
+{"name": " 图解Python--轻松快速掌握实力派脚本语言精华", "price": "¥34.90", "comnum": "561条评论", "link": "//product.dangdang.com/27931595.html"}
+{"name": " 网络工程师的Python之路：网络运维自动化实战", "price": "¥53.00", "comnum": "80条评论", "link": "//product.dangdang.com/29148403.html"}
+{"name": " Python安全实践——PythonHacking", "price": "¥28.50", "comnum": "40条评论", "link": "//product.dangdang.com/27931218.html"}
+{"name": " Python网络程序设计（微课版）", "price": "¥50.80", "comnum": "7条评论", "link": "//product.dangdang.com/29289738.html"}
+{"name": " 【正版特价】Python人脸识别：从入门到工程实践|232376", "price": "¥31.74", "comnum": "109条评论", "link": "//product.dangdang.com/1734395065.html"}
+{"name": " Python超实用 你的Python实践工具书（全彩印刷）", "price": "¥39.90", "comnum": "58条评论", "link": "//product.dangdang.com/29267636.html"}
+{"name": " Python数据科学实战", "price": "¥44.90", "comnum": "185条评论", "link": "//product.dangdang.com/29286595.html"}
+{"name": " Python游戏趣味编程 少儿编程入门教程书籍青少年编程真好玩中小学编程自学Python少儿趣味编程", "price": "¥48.30", "comnum": "1308条评论", "link": "//product.dangdang.com/1656965525.html"}
+{"name": " Python数据分析与大数据处理从入门到精通", "price": "¥64.90", "comnum": "2685条评论", "link": "//product.dangdang.com/28476522.html"}
+{"name": " Python计算机视觉编程【陈熙霖作序推荐！ Amazon.com计算机视觉类图书卖的很好的作品！】", "price": "¥54.50", "comnum": "29条评论", "link": "//product.dangdang.com/23492776.html"}
+{"name": " Python+Excel办公自动化一本通", "price": "¥66.40", "comnum": "117条评论", "link": "//product.dangdang.com/29295464.html"}
+{"name": " Python语言程序设计", "price": "¥41.60", "comnum": "111条评论", "link": "//product.dangdang.com/28470946.html"}
+{"name": " Python程序员面试秘笈", "price": "¥46.60", "comnum": "145条评论", "link": "//product.dangdang.com/29115331.html"}
+{"name": " 编程猫：零基础趣味学Python", "price": "¥39.90", "comnum": "248条评论", "link": "//product.dangdang.com/29267133.html"}
+{"name": " 数据结构 Python语言描述 第2版", "price": "¥59.90", "comnum": "55条评论", "link": "//product.dangdang.com/29266303.html"}
+{"name": " 数据科学：理论、方法与Python语言实践", "price": "¥42.60", "comnum": "37条评论", "link": "//product.dangdang.com/29392791.html"}
+{"name": " 人工智能基础——基于Python的人工智能实践(罗娜)", "price": "¥36.70", "comnum": "34条评论", "link": "//product.dangdang.com/29391135.html"}
+{"name": " Python图像处理实战 图像处理 计算机视觉人脸识别图像修复编程入门教程书籍 零基础 深度学习爬", "price": "¥69.40", "comnum": "357条评论", "link": "//product.dangdang.com/1797551286.html"}
+{"name": " Python编程从入门到实践第2版 百万册纪念版 计算机编程入门精通教程零基础深度学习数据分析语言程序设计开发教材书籍", "price": "¥54.90", "comnum": "89条评论", "link": "//product.dangdang.com/666821115.html"}
+{"name": " [北京发货] Python参考手册（第4版·修订版）程序设计算法Python基础教程核心编程经典著作", "price": "¥66.75", "comnum": "282条评论", "link": "//product.dangdang.com/1230357597.html"}
+{"name": " Python神经网络入门与实战", "price": "¥50.30", "comnum": "661条评论", "link": "//product.dangdang.com/29145320.html"}
+{"name": " Python异步编程实战——基于AIO的全栈开发技术", "price": "¥59.20", "comnum": "36条评论", "link": "//product.dangdang.com/29239530.html"}
+{"name": " Python机器学习", "price": "¥39.90", "comnum": "61条评论", "link": "//product.dangdang.com/29197510.html"}
+{"name": " 基于Python的智能文本分析", "price": "¥44.00", "comnum": "83条评论", "link": "//product.dangdang.com/28498219.html"}
+{"name": " Python编程快速上手 让繁琐工作自动化 第2版", "price": "¥69.40", "comnum": "16条评论", "link": "//product.dangdang.com/1817970688.html"}
+{"name": " 学Python不加班 轻松实现办公自动化 编程基础入门实践教程 Excel办公", "price": "¥77.20", "comnum": "440条评论", "link": "//product.dangdang.com/664488202.html"}
+{"name": " Python机器学习：原理与实践（数据科学与大数据技术丛书）", "price": "¥55.20", "comnum": "13544条评论", "link": "//product.dangdang.com/29203021.html"}
+{"name": " 【新华网】利用Python进行数据分析 原书第二版 python基础入门教程数据分析爬虫程序大数据处理手册计算机程序设计", "price": "¥77.35", "comnum": "7条评论", "link": "//product.dangdang.com/633588228.html"}
+{"name": " Python 3.x网络爬虫从零基础到项目实战", "price": "¥71.30", "comnum": "540条评论", "link": "//product.dangdang.com/28970219.html"}
+{"name": " labuladong的算法小抄【Python，Java，C++零基础，刷数据结构与算法题，搞定大厂笔试面试】", "price": "¥75.70", "comnum": "3987条评论", "link": "//product.dangdang.com/29363556.html"}
+{"name": " Python财务数据分析", "price": "¥44.20", "comnum": "138条评论", "link": "//product.dangdang.com/29370764.html"}
+{"name": " Python极简讲义：一本书入门数据分析与机器学习", "price": "¥85.80", "comnum": "18条评论", "link": "//product.dangdang.com/28537703.html"}
+{"name": " Python游戏编程入门", "price": "¥55.10", "comnum": "635条评论", "link": "//product.dangdang.com/29237167.html"}
+{"name": " Python文本分析（原书第2版）", "price": "¥83.90", "comnum": "525条评论", "link": "//product.dangdang.com/29143915.html"}
+{"name": " Python树莓派编程（原书第2版）", "price": "¥66.70", "comnum": "96条评论", "link": "//product.dangdang.com/29342847.html"}
+{"name": " Python+Superset：商业智能数据分析与实战", "price": "¥62.40", "comnum": "9条评论", "link": "//product.dangdang.com/29376156.html"}
+{"name": " Python编程与3D物理学仿真（视频版）", "price": "¥67.40", "comnum": "163条评论", "link": "//product.dangdang.com/29236387.html"}
+{"name": " 深入浅出Pandas：利用Python进行数据处理与分析", "price": "¥49.50", "comnum": "1159条评论", "link": "//product.dangdang.com/29271487.html"}
+{"name": " Python深度学习（第2版）", "price": "¥59.30", "comnum": "1条评论", "link": "//product.dangdang.com/29356525.html"}
+{"name": " Python自动化测试入门与进阶实战", "price": "¥39.50", "comnum": "288条评论", "link": "//product.dangdang.com/29213853.html"}
+{"name": " Python+Excel职场办公数据分析", "price": "¥70.30", "comnum": "133条评论", "link": "//product.dangdang.com/29276643.html"}
+{"name": " 自然语言处理实战 利用Python理解、分析和生成文本", "price": "¥66.40", "comnum": "1657条评论", "link": "//product.dangdang.com/29127954.html"}
+{"name": " 玩着也能学Python", "price": "¥44.00", "comnum": "2199条评论", "link": "//product.dangdang.com/28496564.html"}
+{"name": " Python 游戏开发从入门到精通", "price": "¥77.40", "comnum": "87条评论", "link": "//product.dangdang.com/29267438.html"}
+{"name": " Python商业数据分析：零售和电子商务案例详解（双色）", "price": "¥53.00", "comnum": "201条评论", "link": "//product.dangdang.com/29271467.html"}
+{"name": " Python编程与计算思维", "price": "¥29.20", "comnum": "68条评论", "link": "//product.dangdang.com/29347580.html"}
+{"name": " Python设计模式 第2版", "price": "¥30.80", "comnum": "991条评论", "link": "//product.dangdang.com/25113288.html"}
+{"name": " Python迁移学习", "price": "¥70.30", "comnum": "365条评论", "link": "//product.dangdang.com/29139157.html"}
+{"name": " 2021年新版【新华书店正版】python编程从入门到实战第2版 计算机零基础自学python编程从入门到实践编程精通教", "price": "¥66.98", "comnum": "537条评论", "link": "//product.dangdang.com/1281255890.html"}
+{"name": " 小天才学Python", "price": "¥18.00", "comnum": "1111条评论", "link": "//product.dangdang.com/26918604.html"}
+{"name": " Python程序设计案例教程——从入门到机器学习（微课版）", "price": "¥38.70", "comnum": "257条评论", "link": "//product.dangdang.com/25344268.html"}
+{"name": " 用Python动手学强化学习(全彩印刷）", "price": "¥70.90", "comnum": "243条评论", "link": "//product.dangdang.com/29272045.html"}
+{"name": " Python编程基础与应用", "price": "¥45.80", "comnum": "492条评论", "link": "//product.dangdang.com/29386160.html"}
+{"name": " Python网络编程从入门到精通", "price": "¥51.70", "comnum": "15条评论", "link": "//product.dangdang.com/28552390.html"}
+{"name": " Python自然语言处理入门", "price": "¥74.80", "comnum": "96条评论", "link": "//product.dangdang.com/29350731.html"}
+{"name": " Python数据整理", "price": "¥74.20", "comnum": "81条评论", "link": "//product.dangdang.com/28970087.html"}
+{"name": " Python青少年趣味编程", "price": "¥64.50", "comnum": "4条评论", "link": "//product.dangdang.com/29260704.html"}
+{"name": " 【正版特价】实用卷积神经网络:运用Python实现高级深度学习模型|232446", "price": "¥31.74", "comnum": "3537条评论", "link": "//product.dangdang.com/1810627318.html"}
+{"name": " 数据结构与算法：Python语言实现", "price": "¥87.20", "comnum": "321条评论", "link": "//product.dangdang.com/25340656.html"}
+{"name": " Python网络爬虫框架Scrapy从入门到精通", "price": "¥57.60", "comnum": "51条评论", "link": "//product.dangdang.com/29220517.html"}
+{"name": " Python商业数据挖掘（第6版）", "price": "¥88.50", "comnum": "6条评论", "link": "//product.dangdang.com/29322346.html"}
+{"name": " 包邮 Python金融大数据挖掘与分析全流程详解|8062446", "price": "¥62.86", "comnum": "586条评论", "link": "//product.dangdang.com/1709282475.html"}
+{"name": " Python自动化编程实战—让繁琐工作自动化", "price": "¥44.90", "comnum": "8条评论", "link": "//product.dangdang.com/29142968.html"}
+{"name": " Python编程【正版图书，达额立减】", "price": "¥58.00", "comnum": "160条评论", "link": "//product.dangdang.com/11030677713.html"}
+{"name": " Python语言程序设计", "price": "¥33.10", "comnum": "70条评论", "link": "//product.dangdang.com/26910215.html"}
+{"name": " Python编程从入门到精通 计算机电脑编程入门自学零基础教程全套书籍 pathon编程从入门到实践python基础教程", "price": "¥49.80", "comnum": "2274条评论", "link": "//product.dangdang.com/1849516878.html"}
+{"name": " Python统计分析", "price": "¥62.40", "comnum": "708条评论", "link": "//product.dangdang.com/26184453.html"}
+{"name": " Python接口自动化测试", "price": "¥39.60", "comnum": "203条评论", "link": "//product.dangdang.com/27873146.html"}
+{"name": " Python实战之数据库应用和数据获取", "price": "¥35.50", "comnum": "87条评论", "link": "//product.dangdang.com/28553868.html"}
+{"name": " Python编程一学就会/少年创客学院", "price": "¥57.80", "comnum": "1407条评论", "link": "//product.dangdang.com/29234153.html"}
+{"name": " Python 3反爬虫原理与绕过实战", "price": "¥70.30", "comnum": "5860条评论", "link": "//product.dangdang.com/28508464.html"}
+{"name": " Python绝技：运用Python成为黑客", "price": "¥53.00", "comnum": "2442条评论", "link": "//product.dangdang.com/23839735.html"}
+{"name": " Python与量化投资：从基础到实战", "price": "¥66.40", "comnum": "2600条评论", "link": "//product.dangdang.com/25248716.html"}
+{"name": " Spark和Python机器学习实战：预测分析核心方法（第2版）", "price": "¥74.90", "comnum": "240条评论", "link": "//product.dangdang.com/29384352.html"}
+{"name": " Python编程无师自通——专业程序员的养成", "price": "¥37.76", "comnum": "1条评论", "link": "//product.dangdang.com/1901110517.html"}
+{"name": " 接口自动化测试项目实战：Python 3.8+Requests+PyMySQL+pytest+Jenkins实现", "price": "¥29.50", "comnum": "649条评论", "link": "//product.dangdang.com/29331067.html"}
+{"name": " 用Python写网络爬虫 [澳]理查德·劳森（", "price": "¥40.73", "comnum": "51条评论", "link": "//product.dangdang.com/11061451410.html"}
+{"name": " 基于Python的语料库数据处理", "price": "¥48.30", "comnum": "63条评论", "link": "//product.dangdang.com/28977892.html"}
+{"name": " Python编程从零基础到项目实战（微课视频版）（第二版）", "price": "¥39.90", "comnum": "394条评论", "link": "//product.dangdang.com/29308315.html"}
+{"name": " Python气象数据处理与绘图基础", "price": "¥46.60", "comnum": "1426条评论", "link": "//product.dangdang.com/29262551.html"}
+{"name": " Python人工智能开发从入门到精通", "price": "¥86.80", "comnum": "181条评论", "link": "//product.dangdang.com/28552563.html"}
+{"name": " Python项目案例开发从入门到实战——爬虫、游戏和机器学习", "price": "¥39.90", "comnum": "136条评论", "link": "//product.dangdang.com/26436548.html"}
+{"name": " Python程序设计实用教程", "price": "¥47.60", "comnum": "161条评论", "link": "//product.dangdang.com/25288911.html"}
+{"name": " Python爬虫与反爬虫开发从入门到精通", "price": "¥65.30", "comnum": "244条评论", "link": "//product.dangdang.com/29271764.html"}
+{"name": " Python机器学习中的数学修炼", "price": "¥49.50", "comnum": "46条评论", "link": "//product.dangdang.com/29233808.html"}
+{"name": " Python深度学习入门 从零构建CNN和RNN", "price": "¥62.40", "comnum": "97条评论", "link": "//product.dangdang.com/29202371.html"}
+{"name": " Python程序设计任务驱动式教程", "price": "¥41.60", "comnum": "1174条评论", "link": "//product.dangdang.com/29336685.html"}
+{"name": " Python课程设计-微课视频版", "price": "¥42.30", "comnum": "353条评论", "link": "//product.dangdang.com/29117891.html"}
+{"name": " 我的Python世界 玩《Minecraft我的世界》学Python编程", "price": "¥46.30", "comnum": "913条评论", "link": "//product.dangdang.com/25305843.html"}
+{"name": " 在最好的年纪学Python——小学生趣味编程", "price": "¥29.90", "comnum": "1485条评论", "link": "//product.dangdang.com/29161910.html"}
+{"name": " Python生物信息学数据管理", "price": "¥54.50", "comnum": "187条评论", "link": "//product.dangdang.com/24172474.html"}
+{"name": " 智能风控：Python金融风险管理与评分卡建模", "price": "¥44.50", "comnum": "81条评论", "link": "//product.dangdang.com/28548802.html"}
+{"name": " Python基础教程", "price": "¥57.80", "comnum": "10条评论", "link": "//product.dangdang.com/27893254.html"}
+{"name": " Python语言程序设计(Daniel Liang[梁勇]博士系列丛书之一，以实例教，由实践学，采用基础先行、问题驱动的", "price": "¥51.40", "comnum": "1527条评论", "link": "//product.dangdang.com/23689934.html"}
+{"name": " 代替VBA！用Python轻松实现Excel编程", "price": "¥71.00", "comnum": "116条评论", "link": "//product.dangdang.com/29355924.html"}
+{"name": " Python程序设计(思政版)", "price": "¥41.60", "comnum": "131条评论", "link": "//product.dangdang.com/29265939.html"}
+{"name": " Python基础与应用开发", "price": "¥50.10", "comnum": "49条评论", "link": "//product.dangdang.com/29154703.html"}
+{"name": " 笨办法学Python 3 进阶篇", "price": "¥39.60", "comnum": "1122条评论", "link": "//product.dangdang.com/28546281.html"}
+{"name": " 用Python动手学统计学", "price": "¥63.00", "comnum": "463条评论", "link": "//product.dangdang.com/29257971.html"}
+{"name": " 用Python编程和实践！算法入门", "price": "¥44.90", "comnum": "64条评论", "link": "//product.dangdang.com/29307356.html"}
+{"name": " Python金融实战案例精粹", "price": "¥94.00", "comnum": "1207条评论", "link": "//product.dangdang.com/28553103.html"}
+{"name": " Python自动化运维快速入门（第2版）", "price": "¥66.70", "comnum": "347条评论", "link": "//product.dangdang.com/29235467.html"}
+{"name": " Python编程与数据分析基础", "price": "¥38.20", "comnum": "61条评论", "link": "//product.dangdang.com/29294859.html"}
+{"name": " Python数据科学实践", "price": "¥45.50", "comnum": "218条评论", "link": "//product.dangdang.com/28973024.html"}
+{"name": " Python算法设计与分析从入门到精通", "price": "¥39.90", "comnum": "52条评论", "link": "//product.dangdang.com/29336692.html"}
+{"name": " Python深度学习异常检测 使用Keras和PyTorch", "price": "¥73.50", "comnum": "383条评论", "link": "//product.dangdang.com/29131983.html"}
+{"name": " Python深度学习 deep learning with python中文版人工智能机器学习神经网络编程书籍", "price": "¥82.80", "comnum": "182条评论", "link": "//product.dangdang.com/1017539815.html"}
+{"name": " Python数学编程", "price": "¥39.60", "comnum": "1345条评论", "link": "//product.dangdang.com/28505393.html"}
+{"name": " 【正版特价】Python编程从0到1（视频教学版）|232806", "price": "¥36.34", "comnum": "79条评论", "link": "//product.dangdang.com/1810625228.html"}
+{"name": " Python程序设计及应用 龚沛曾,杨志强 9787040567533 高等教育出版社", "price": "¥34.00", "comnum": "655条评论", "link": "//product.dangdang.com/11056162937.html"}
+{"name": " Python数据分析基础", "price": "¥44.00", "comnum": "1306条评论", "link": "//product.dangdang.com/29327512.html"}
+{"name": " Python王者归来", "price": "¥64.00", "comnum": "80条评论", "link": "//product.dangdang.com/27856608.html"}
+{"name": " Effective Python：编写高质量Python代码的90个有效方法(原书第2版）", "price": "¥83.90", "comnum": "133条评论", "link": "//product.dangdang.com/29197099.html"}
+{"name": " Python语言程序设计基础", "price": "¥36.30", "comnum": "999条评论", "link": "//product.dangdang.com/27869821.html"}
+{"name": " Python程序设计教程", "price": "¥14.50", "comnum": "110条评论", "link": "//product.dangdang.com/26920760.html"}
+{"name": " 机器学习算法与应用（Python版）", "price": "¥41.60", "comnum": "49条评论", "link": "//product.dangdang.com/29394764.html"}
+{"name": " Python量化交易：策略、技巧与实战", "price": "¥78.20", "comnum": "2955条评论", "link": "//product.dangdang.com/27914999.html"}
+{"name": " Python语言数据分析", "price": "¥49.50", "comnum": "1991条评论", "link": "//product.dangdang.com/29263331.html"}
+{"name": " 基于Python的金融分析", "price": "¥35.20", "comnum": "2条评论", "link": "//product.dangdang.com/29116555.html"}
+{"name": " Python自然语言处理实战：核心技术与算法", "price": "¥34.50", "comnum": "936条评论", "link": "//product.dangdang.com/25286117.html"}
+{"name": " Python数据分析与数据化运营 第2版", "price": "¥64.50", "comnum": "9条评论", "link": "//product.dangdang.com/27884912.html"}
+{"name": " Python编程 从入门到实践【正版上新】", "price": "¥42.26", "comnum": "554条评论", "link": "//product.dangdang.com/11100997237.html"}
+{"name": " Python少儿趣味编程", "price": "¥54.50", "comnum": "48条评论", "link": "//product.dangdang.com/28475333.html"}
+{"name": " Python极客项目编程 (美)温科特卡姆(Mahesh Venkitachalam) 著;王海鹏 译", "price": "¥34.50", "comnum": "1877条评论", "link": "//product.dangdang.com/1310028347.html"}
+{"name": " Python程序设计项目化教程（高等职业教育人工智能专业群系列教材）", "price": "¥44.20", "comnum": "2701条评论", "link": "//product.dangdang.com/29388293.html"}
+{"name": " Python程序设计基础", "price": "¥33.00", "comnum": "662条评论", "link": "//product.dangdang.com/29388431.html"}
+{"name": " Python密码学编程 第2版", "price": "¥70.30", "comnum": "305条评论", "link": "//product.dangdang.com/28528805.html"}
+{"name": " Python程序设计教程", "price": "¥39.00", "comnum": "162条评论", "link": "//product.dangdang.com/29388422.html"}
+{"name": " Python机器学习经典实例 第2版", "price": "¥69.90", "comnum": "174条评论", "link": "//product.dangdang.com/29340074.html"}
+{"name": " Python地理空间分析指南（第2版）", "price": "¥62.40", "comnum": "499条评论", "link": "//product.dangdang.com/24242810.html"}
+{"name": " Python金融衍生品大数据分析：建模、模拟、校准与对冲", "price": "¥96.00", "comnum": "589条评论", "link": "//product.dangdang.com/29143011.html"}
+{"name": " Python预测之美：数据分析与算法实战", "price": "¥94.00", "comnum": "53条评论", "link": "//product.dangdang.com/28982031.html"}
+{"name": " Python数值计算与模拟", "price": "¥39.90", "comnum": "286条评论", "link": "//product.dangdang.com/29206512.html"}
+{"name": " Python机器学习实战", "price": "¥29.90", "comnum": "75条评论", "link": "//product.dangdang.com/29248895.html"}
+{"name": " 精通Python（微课视频版）", "price": "¥81.00", "comnum": "392条评论", "link": "//product.dangdang.com/29166579.html"}
+{"name": " Python微控制器编程从零开始 使用MicroPython", "price": "¥37.30", "comnum": "170条评论", "link": "//product.dangdang.com/25330163.html"}
+{"name": " 趣学Python算法100例", "price": "¥49.50", "comnum": "216条评论", "link": "//product.dangdang.com/29138958.html"}
+{"name": " Python程序设计与案例教程", "price": "¥29.20", "comnum": "293条评论", "link": "//product.dangdang.com/26510672.html"}
+{"name": " Python数据可视化", "price": "¥49.50", "comnum": "27条评论", "link": "//product.dangdang.com/28558338.html"}
+{"name": " Python代码整洁之道", "price": "¥59.80", "comnum": "590条评论", "link": "//product.dangdang.com/29308258.html"}
+{"name": " Python数据挖掘入门与实践 [澳]Robert,【正版书】", "price": "¥52.28", "comnum": "90条评论", "link": "//product.dangdang.com/11082930994.html"}
+{"name": " Python代码整洁之道：编写优雅的代码", "price": "¥51.40", "comnum": "2492条评论", "link": "//product.dangdang.com/29140585.html"}
+{"name": " Python常用算法手册", "price": "¥47.20", "comnum": "446条评论", "link": "//product.dangdang.com/29118860.html"}
+{"name": " Python渗透测试编程技术：方法与实践（第2版）", "price": "¥34.50", "comnum": "274条评论", "link": "//product.dangdang.com/29173245.html"}
+{"name": " 用Python编程和实践！深度学习教科书 深度学习实战 自动机器学习公式详解 python机器学习 人工智能算法 云原生", "price": "¥49.90", "comnum": "275条评论", "link": "//product.dangdang.com/29212476.html"}
+{"name": " 中小学Python编程项目学习创意课堂（微课版）", "price": "¥59.80", "comnum": "153条评论", "link": "//product.dangdang.com/29367849.html"}
+{"name": " python编程 从入门到实践 全套2册跟我一起玩python编程从入门到精通快速上手基础及应用当当自营同款程自学教程高", "price": "¥32.80", "comnum": "28条评论", "link": "//product.dangdang.com/11041445029.html"}
+{"name": " Python机器学习及实践---- 从零开始通往Kaggle竞赛之路", "price": "¥24.50", "comnum": "1600条评论", "link": "//product.dangdang.com/24043260.html"}
+{"name": " 自然语言处理NLP从入门到项目实战：Python语言实现", "price": "¥64.90", "comnum": "296条评论", "link": "//product.dangdang.com/29326930.html"}
+{"name": " Python数据结构与算法分析 第2版", "price": "¥62.40", "comnum": "1753条评论", "link": "//product.dangdang.com/27926611.html"}
+{"name": " Python量化交易", "price": "¥66.40", "comnum": "1696条评论", "link": "//product.dangdang.com/27870346.html"}
+{"name": " 基于Python的大数据分析基础及实战 python数据分析与挖掘实战 数据分析与可视化从入门到精通 数据之道 数据库", "price": "¥34.90", "comnum": "8106条评论", "link": "//product.dangdang.com/25307829.html"}
+{"name": " Python Linux系统管理与自动化运维", "price": "¥44.50", "comnum": "1202条评论", "link": "//product.dangdang.com/25164632.html"}
+{"name": " Python语言程序设计", "price": "¥31.40", "comnum": "108条评论", "link": "//product.dangdang.com/29211115.html"}
+{"name": " Python工程应用——网络信息安全", "price": "¥33.70", "comnum": "2条评论", "link": "//product.dangdang.com/29366755.html"}
+{"name": " Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书）", "price": "¥29.90", "comnum": "641条评论", "link": "//product.dangdang.com/28544420.html"}
+{"name": " Python数据分析、挖掘与可视化（慕课版）", "price": "¥39.30", "comnum": "490条评论", "link": "//product.dangdang.com/28499341.html"}
+{"name": " Python项目开发实战", "price": "¥39.50", "comnum": "365条评论", "link": "//product.dangdang.com/29236470.html"}
+{"name": " Python数据分析与挖掘实战", "price": "¥59.20", "comnum": "74条评论", "link": "//product.dangdang.com/29233809.html"}
+{"name": " Python量化交易从入门到实战", "price": "¥44.90", "comnum": "325条评论", "link": "//product.dangdang.com/29208318.html"}
+{"name": " Python期货量化交易实战", "price": "¥39.60", "comnum": "748条评论", "link": "//product.dangdang.com/28522315.html"}
+{"name": " Python大数据处理库PySpark实战", "price": "¥67.10", "comnum": "228条评论", "link": "//product.dangdang.com/29207625.html"}
+{"name": " Python程序设计实验教程", "price": "¥26.20", "comnum": "2157条评论", "link": "//product.dangdang.com/29388415.html"}
+{"name": " Python真好玩：教孩子学编程", "price": "¥44.00", "comnum": "214条评论", "link": "//product.dangdang.com/27919783.html"}
+{"name": " OpenCV 4.0+Python机器学习与计算机视觉实战", "price": "¥54.50", "comnum": "251条评论", "link": "//product.dangdang.com/29378530.html"}
+{"name": " 趣玩Python：自动化办公真简单（双色+视频版）", "price": "¥70.30", "comnum": "484条评论", "link": "//product.dangdang.com/29335794.html"}
+{"name": " Python 金融数据分析——数据驱动金融", "price": "¥58.30", "comnum": "5条评论", "link": "//product.dangdang.com/29385251.html"}
+{"name": " Python Web开发从入门到精通", "price": "¥49.90", "comnum": "58条评论", "link": "//product.dangdang.com/29249274.html"}
+{"name": " 计算思维与Python应用编程", "price": "¥49.30", "comnum": "1132条评论", "link": "//product.dangdang.com/29394093.html"}
+{"name": " Python程序设计基础（第2版）", "price": "¥41.60", "comnum": "619条评论", "link": "//product.dangdang.com/25238171.html"}
+{"name": " Python编程 从入门到实践[美]埃里克·马瑟斯(Eric Matthes)【正版图书，退换无忧】", "price": "¥55.00", "comnum": "825条评论", "link": "//product.dangdang.com/11103242502.html"}
+{"name": " 量化交易入门与Python实践（21世纪通识教育系列教材）", "price": "¥28.10", "comnum": "290条评论", "link": "//product.dangdang.com/29285061.html"}
+{"name": " Python量化交易实战", "price": "¥59.20", "comnum": "37条评论", "link": "//product.dangdang.com/26485746.html"}
+{"name": " Python语言在Abaqus中的应用 第2版", "price": "¥51.40", "comnum": "1232条评论", "link": "//product.dangdang.com/29145808.html"}
+{"name": " Python游戏趣味编程", "price": "¥54.50", "comnum": "576条评论", "link": "//product.dangdang.com/28973652.html"}
+{"name": " Python Qt GUI与数据可视化编程 pyqt5教程书籍 pyqt5快速开发与实战Qt5 GU", "price": "¥69.30", "comnum": "473条评论", "link": "//product.dangdang.com/1521341625.html"}
+{"name": " Python中文自然语言处理基础与实战", "price": "¥47.20", "comnum": "233条评论", "link": "//product.dangdang.com/29345388.html"}
+{"name": " 让工作化繁为简：用Python实现办公自动化", "price": "¥39.90", "comnum": "1602条评论", "link": "//product.dangdang.com/29210139.html"}
+{"name": " Python微服务开发", "price": "¥44.20", "comnum": "173条评论", "link": "//product.dangdang.com/27852643.html"}
+{"name": " Python渗透测试实战", "price": "¥39.50", "comnum": "744条评论", "link": "//product.dangdang.com/29192759.html"}
+{"name": " Python金融大数据分析 第二2版 金融数据科学算法交易量化金融计算入门书籍 金融科技计算机", "price": "¥97.30", "comnum": "148条评论", "link": "//product.dangdang.com/1583787465.html"}
+{"name": " 父与子的编程之旅 与小卡特一起学Python 第3版（全彩印刷）", "price": "¥59.50", "comnum": "144条评论", "link": "//product.dangdang.com/29140385.html"}
+{"name": " 简明Python教程 新", "price": "¥43.40", "comnum": "90条评论", "link": "//product.dangdang.com/29250803.html"}
+{"name": " 零基础轻松学Python：青少年趣味编程（全彩版）", "price": "¥34.90", "comnum": "1273条评论", "link": "//product.dangdang.com/28487240.html"}
+{"name": " Python计算机视觉实战", "price": "¥44.50", "comnum": "543条评论", "link": "//product.dangdang.com/29298972.html"}
+{"name": " Python程序设计简明教程", "price": "¥33.10", "comnum": "288条评论", "link": "//product.dangdang.com/28970294.html"}
+{"name": " Python模块参考手册·日期与时间（全彩版）", "price": "¥26.90", "comnum": "1917条评论", "link": "//product.dangdang.com/28990241.html"}
+{"name": " Python袖珍指南（第五版）", "price": "¥19.00", "comnum": "10条评论", "link": "//product.dangdang.com/23617285.html"}
+{"name": " Python数据分析全流程实操指南", "price": "¥59.20", "comnum": "100条评论", "link": "//product.dangdang.com/29122980.html"}
+{"name": " Python办公自动化——玩转Excel（普通高等教育通识类课程新形态教材）", "price": "¥30.80", "comnum": "757条评论", "link": "//product.dangdang.com/29381548.html"}
+{"name": " 零基础学Python网络爬虫案例实战全流程详解（高级进阶篇）", "price": "¥44.90", "comnum": "495条评论", "link": "//product.dangdang.com/29265338.html"}
+{"name": " Python开发技术标准教程", "price": "¥29.50", "comnum": "64条评论", "link": "//product.dangdang.com/29388008.html"}
+{"name": " Python数据处理", "price": "¥78.20", "comnum": "9167条评论", "link": "//product.dangdang.com/25107100.html"}
+{"name": " Python实验指导与习题集", "price": "¥33.10", "comnum": "1954条评论", "link": "//product.dangdang.com/29372544.html"}
+{"name": " Python程序设计基础及实践（慕课版）", "price": "¥47.20", "comnum": "585条评论", "link": "//product.dangdang.com/29307998.html"}
+{"name": " Python与有限元--基于Python编程的有限元分析及应用扩展", "price": "¥42.60", "comnum": "818条评论", "link": "//product.dangdang.com/25216052.html"}
+{"name": " Python Web自动化测试入门与实战", "price": "¥59.20", "comnum": "46条评论", "link": "//product.dangdang.com/28551658.html"}
+{"name": " Python数据可视化实战", "price": "¥47.20", "comnum": "358条评论", "link": "//product.dangdang.com/29379788.html"}
+{"name": " 数学建模简明教程——基于Python", "price": "¥35.50", "comnum": "419条评论", "link": "//product.dangdang.com/29339512.html"}
+{"name": " 你也能看得懂的Python算法书", "price": "¥46.60", "comnum": "4500条评论", "link": "//product.dangdang.com/25579993.html"}
+{"name": " Python并行编程实战（第二版）", "price": "¥39.50", "comnum": "203条评论", "link": "//product.dangdang.com/29171653.html"}
+{"name": " Python深度学习：基于PyTorch", "price": "¥44.50", "comnum": "3414条评论", "link": "//product.dangdang.com/28475338.html"}
+{"name": " Python数据分析基础", "price": "¥54.40", "comnum": "3615条评论", "link": "//product.dangdang.com/25139426.html"}
+{"name": " Python编程基础与科学计算", "price": "¥54.00", "comnum": "2651条评论", "link": "//product.dangdang.com/29381279.html"}
+{"name": " Python科学计算(第2版)", "price": "¥88.50", "comnum": "9条评论", "link": "//product.dangdang.com/23957701.html"}
+{"name": " Python编程入门与实战", "price": "¥59.90", "comnum": "1449条评论", "link": "//product.dangdang.com/29365102.html"}
+{"name": " Python 3 面向对象编程（第2版）", "price": "¥66.40", "comnum": "424条评论", "link": "//product.dangdang.com/25301983.html"}
+{"name": " Python编程基础与案例集锦（中学版）", "price": "¥43.60", "comnum": "3976条评论", "link": "//product.dangdang.com/26922174.html"}
+{"name": " Python数据可视化之美：专业图表绘制指南（全彩）", "price": "¥101.90", "comnum": "6条评论", "link": "//product.dangdang.com/28527228.html"}
+{"name": " Python辅助Word+Excel：让办公更高效", "price": "¥49.90", "comnum": "148条评论", "link": "//product.dangdang.com/29374156.html"}
+{"name": " Python一行流：像专家一样写代码", "price": "¥66.70", "comnum": "1145条评论", "link": "//product.dangdang.com/29307058.html"}
+{"name": " Python科学计算和数据科学应用(第2版) 使用NumPy、SciPy和matplotlib", "price": "¥148.50", "comnum": "12条评论", "link": "//product.dangdang.com/28974447.html"}
+{"name": " Python基础教程第3版 Python编程从入门到实践 head first python学习手册 零基础入门学习Py", "price": "¥55.88", "comnum": "70条评论", "link": "//product.dangdang.com/1116968669.html"}
+{"name": " Python基础教程第3版三版 Python入门经典程序设计书 从入门到实践教程书 久负盛名的Python入门经典 中文", "price": "¥69.80", "comnum": "1834条评论", "link": "//product.dangdang.com/1464222615.html"}
+{"name": " Python数据分析与可视化", "price": "¥50.10", "comnum": "251条评论", "link": "//product.dangdang.com/29393953.html"}
+{"name": " Python数据分析与可视化从入门到精通", "price": "¥57.60", "comnum": "663条评论", "link": "//product.dangdang.com/28528261.html"}
+{"name": " Python编程宝典：迅速提高编程水平的100个关键技能", "price": "¥72.20", "comnum": "84条评论", "link": "//product.dangdang.com/29198401.html"}
+{"name": " Python核心编程 第3版 英文版", "price": "¥64.90", "comnum": "60条评论", "link": "//product.dangdang.com/29283044.html"}
+{"name": " Python网络爬虫与数据可视化应用实战 Python文本数据分析与挖掘 数据分析 数据之道 python 大数据 网络", "price": "¥54.50", "comnum": "1218条评论", "link": "//product.dangdang.com/29324339.html"}
+{"name": " Python数据结构学习笔记", "price": "¥47.20", "comnum": "3680条评论", "link": "//product.dangdang.com/29237802.html"}
+{"name": " Python数据分析与应用", "price": "¥39.30", "comnum": "207条评论", "link": "//product.dangdang.com/25249785.html"}
+{"name": " 像计算机科学家一样思考Python 第2版", "price": "¥32.90", "comnum": "58条评论", "link": "//product.dangdang.com/24003387.html"}
+{"name": " Python数据挖掘与机器学习", "price": "¥29.90", "comnum": "67条评论", "link": "//product.dangdang.com/29206727.html"}
+{"name": " 【新华网】Python学习手册 原书第五版 Python编程从入门到实践head first零基础入门学Python3基", "price": "¥116.50", "comnum": "7条评论", "link": "//product.dangdang.com/633595938.html"}
+{"name": " Python医学数据分析入门", "price": "¥44.90", "comnum": "9条评论", "link": "//product.dangdang.com/29355443.html"}
+{"name": " Python程序开发(中级)", "price": "¥34.90", "comnum": "3212条评论", "link": "//product.dangdang.com/29375736.html"}
+{"name": " 【正版特价】Python机器学习|230111", "price": "¥31.60", "comnum": "250条评论", "link": "//product.dangdang.com/1729364655.html"}
+{"name": " Python金融大数据分析 第2版", "price": "¥109.80", "comnum": "307条评论", "link": "//product.dangdang.com/28527971.html"}
+{"name": " Python程序设计基础", "price": "¥33.70", "comnum": "633条评论", "link": "//product.dangdang.com/29382872.html"}
+{"name": " Python OpenCV从入门到精通", "price": "¥39.90", "comnum": "63条评论", "link": "//product.dangdang.com/29294856.html"}
+{"name": " Python图形编程：2D和3D图像的创建", "price": "¥57.90", "comnum": "37条评论", "link": "//product.dangdang.com/28539138.html"}
+{"name": " Python量化金融编程从入门到精通", "price": "¥57.60", "comnum": "880条评论", "link": "//product.dangdang.com/29167427.html"}
+{"name": " Python数据科学手册 (美)杰克·万托布拉斯(Jake VanderPlas) 著;陶俊杰,陈小莉 译", "price": "¥76.30", "comnum": "4954条评论", "link": "//product.dangdang.com/1043215577.html"}
+{"name": " 青少年学Python编程从入门到精通：视频案例版 中小学青少年编程儿童少儿编程 零基础学Python（全彩图解+高清视频", "price": "¥66.70", "comnum": "11条评论", "link": "//product.dangdang.com/29374875.html"}
+{"name": " Python 网络爬虫从入门到精通", "price": "¥51.40", "comnum": "124条评论", "link": "//product.dangdang.com/27873714.html"}
+{"name": " Head First Python(第二版)", "price": "¥64.00", "comnum": "504条评论", "link": "//product.dangdang.com/25216230.html"}
+{"name": " Python数据分析基础 零编程经验也可学会用Python语言进行数据分析", "price": "¥51.75", "comnum": "458条评论", "link": "//product.dangdang.com/1229976797.html"}
+{"name": " Python监督学习", "price": "¥53.70", "comnum": "3条评论", "link": "//product.dangdang.com/29384758.html"}
+{"name": " Python App网络编程项目实战（微课视频版）", "price": "¥29.90", "comnum": "1412条评论", "link": "//product.dangdang.com/29346955.html"}
+{"name": " Python机器学习（原书第3版）", "price": "¥96.90", "comnum": "483条评论", "link": "//product.dangdang.com/29250251.html"}
+{"name": " Python程序设计教程（第2版）", "price": "¥58.60", "comnum": "4112条评论", "link": "//product.dangdang.com/27924565.html"}
+{"name": " Python编程入门与算法进阶", "price": "¥77.20", "comnum": "113条评论", "link": "//product.dangdang.com/11115485574.html"}
+{"name": " Python趣味编程：从入门到人工智能", "price": "¥44.20", "comnum": "453条评论", "link": "//product.dangdang.com/27896566.html"}
+{"name": " 机器学习及Python应用", "price": "¥77.50", "comnum": "21条评论", "link": "//product.dangdang.com/29221647.html"}
+{"name": " Python数据科学手册", "price": "¥85.90", "comnum": "287条评论", "link": "//product.dangdang.com/25228733.html"}
+{"name": " 编程小屋 Python 3.0 趣味教程", "price": "¥31.20", "comnum": "677条评论", "link": "//product.dangdang.com/28972529.html"}
+{"name": " Python程序设计基础与应用", "price": "¥38.70", "comnum": "22条评论", "link": "//product.dangdang.com/25340689.html"}
+{"name": " 明解Python", "price": "¥64.90", "comnum": "461条评论", "link": "//product.dangdang.com/29375735.html"}
+{"name": " Python程序设计基础", "price": "¥50.10", "comnum": "9238条评论", "link": "//product.dangdang.com/29391926.html"}
+{"name": " Python程序开发(高级)", "price": "¥34.90", "comnum": "112条评论", "link": "//product.dangdang.com/29380874.html"}
+{"name": " 超简单：用Python让Excel飞起来（核心模块语法详解篇）", "price": "¥39.90", "comnum": "116条评论", "link": "//product.dangdang.com/29317613.html"}
+{"name": " Python金融大数据风控建模实战：基于机器学习", "price": "¥59.50", "comnum": "1739条评论", "link": "//product.dangdang.com/28970088.html"}
+{"name": " 超简单的Python——人气讲师为你讲解程序开发", "price": "¥44.90", "comnum": "412条评论", "link": "//product.dangdang.com/29357180.html"}
+{"name": " Python机器学习实战案例（第2版）", "price": "¥29.50", "comnum": "7139条评论", "link": "//product.dangdang.com/29391895.html"}
+{"name": " 深入浅出Python数据分析", "price": "¥44.50", "comnum": "227条评论", "link": "//product.dangdang.com/29391920.html"}
+{"name": " 零基础入门学习Python（第2版）-微课视频版", "price": "¥44.50", "comnum": "1209条评论", "link": "//product.dangdang.com/27865271.html"}
+{"name": " 用Python轻松设计控制系统", "price": "¥59.20", "comnum": "959条评论", "link": "//product.dangdang.com/29302796.html"}
+{"name": " 高阶Python：代码精进之路", "price": "¥126.00", "comnum": "19条评论", "link": "//product.dangdang.com/29388236.html"}
+{"name": " Python数据分析 活用Pandas库", "price": "¥70.20", "comnum": "574条评论", "link": "//product.dangdang.com/28523780.html"}
+{"name": " Python最优化算法实战", "price": "¥50.30", "comnum": "872条评论", "link": "//product.dangdang.com/29128615.html"}
+{"name": " Python程序设计入门与实践", "price": "¥39.70", "comnum": "147条评论", "link": "//product.dangdang.com/29201723.html"}
+{"name": " Python趣味案例编程(全彩版)", "price": "¥49.00", "comnum": "678条评论", "link": "//product.dangdang.com/28980470.html"}
+{"name": " 给Python点颜色 青少年学编程", "price": "¥47.20", "comnum": "1641条评论", "link": "//product.dangdang.com/27918348.html"}
+{"name": " 物联网应用设计与实战：基于AVR单片机和Python", "price": "¥46.60", "comnum": "775条评论", "link": "//product.dangdang.com/26440992.html"}
+{"name": " Python量化投资：技术 模型与策略", "price": "¥39.50", "comnum": "123条评论", "link": "//product.dangdang.com/29133037.html"}
+{"name": " Python从入门到项目实战（全程视频版）", "price": "¥49.90", "comnum": "2185条评论", "link": "//product.dangdang.com/28539201.html"}
+{"name": " Python数字信号处理应用", "price": "¥35.50", "comnum": "214条评论", "link": "//product.dangdang.com/25232652.html"}
+{"name": " Python科学计算入门日系图书 numpy sympy scipy pandas matplotlib应用方法 数据处", "price": "¥44.90", "comnum": "2条评论", "link": "//product.dangdang.com/29297984.html"}
+{"name": " Python数据可视化之matplotlib实践", "price": "¥39.60", "comnum": "54条评论", "link": "//product.dangdang.com/25339676.html"}
+{"name": " Python人工智能", "price": "¥34.50", "comnum": "510条评论", "link": "//product.dangdang.com/29219537.html"}
+{"name": " 零基础编程入门学习笔记（套装共3册）（零基础Python+零基础C语言+零基础Java）", "price": "¥162.00", "comnum": "293条评论", "link": "//product.dangdang.com/410280156.html"}
+{"name": " 写给新手的深度学习2——用 Python 实现的循环神经网络RNN和VAE、GAN 深入浅出图神经网络 神经网络与机器学", "price": "¥44.90", "comnum": "63条评论", "link": "//product.dangdang.com/29345758.html"}
+{"name": " Python实现Web UI自动化测试实战：Selenium 3/4+unittest/Pytest+GitLab+Je", "price": "¥49.90", "comnum": "242条评论", "link": "//product.dangdang.com/29282172.html"}
+{"name": " Python数据分析从入门到精通（微课视频版）", "price": "¥67.30", "comnum": "63条评论", "link": "//product.dangdang.com/29247227.html"}
+{"name": " 学Python也可以这么有趣（看漫画 学编程）", "price": "¥34.90", "comnum": "375条评论", "link": "//product.dangdang.com/29326358.html"}
+{"name": " Python核心编程 第3版(第3版) 人民邮电出版社", "price": "¥49.50", "comnum": "970条评论", "link": "//product.dangdang.com/1380033182.html"}
+{"name": " Python数据分析与量化投资", "price": "¥49.30", "comnum": "1398条评论", "link": "//product.dangdang.com/29325263.html"}
+{"name": " Python青少年趣味编程", "price": "¥34.50", "comnum": "9124条评论", "link": "//product.dangdang.com/28537745.html"}
+{"name": " Python测试开发入门与实践", "price": "¥59.80", "comnum": "1089条评论", "link": "//product.dangdang.com/29392801.html"}
+{"name": " 算法入门之西游漫记——Python语言版", "price": "¥74.50", "comnum": "574条评论", "link": "//product.dangdang.com/29384344.html"}
+{"name": " Excel×Python智能高效办公", "price": "¥39.90", "comnum": "115条评论", "link": "//product.dangdang.com/29237161.html"}
+{"name": " Python大数据分析与机器学习商业案例实战", "price": "¥49.90", "comnum": "53条评论", "link": "//product.dangdang.com/28558389.html"}
+{"name": " Python编程（第四版）", "price": "¥99.00", "comnum": "12750条评论", "link": "//product.dangdang.com/23617284.html"}
+{"name": " Python程序设计", "price": "¥52.00", "comnum": "26条评论", "link": "//product.dangdang.com/29393024.html"}
+{"name": " Python程序设计实践指导", "price": "¥32.00", "comnum": "4条评论", "link": "//product.dangdang.com/29393033.html"}
+{"name": " Python Web 开发从入门到实战（Django+Bootstrap）-微课视频版", "price": "¥29.90", "comnum": "1204条评论", "link": "//product.dangdang.com/29114528.html"}
+{"name": " Python编程练习与解答", "price": "¥37.30", "comnum": "1044条评论", "link": "//product.dangdang.com/29201497.html"}
+{"name": " 漫画Python：编程入门超简单", "price": "¥29.90", "comnum": "5411条评论", "link": "//product.dangdang.com/29329364.html"}
+{"name": " Python数据结构和算法实战（第2版）Python编程从入门到实战数据结构与算法分析算法之美人工智能算法计算机程序设计", "price": "¥44.90", "comnum": "208条评论", "link": "//product.dangdang.com/29382082.html"}
+{"name": " Python机器学习+文本数据分析与挖掘+数值计算与模拟（套装3册）", "price": "¥119.70", "comnum": "23635条评论", "link": "//product.dangdang.com/29302818.html"}
+{"name": " Python Cookbook（第3版）中文版", "price": "¥72.40", "comnum": "714条评论", "link": "//product.dangdang.com/23690527.html"}
+{"name": " Python金融数据挖掘与分析实战", "price": "¥54.50", "comnum": "37条评论", "link": "//product.dangdang.com/29349364.html"}
+{"name": " Python统计可视化之Altair探索分析实践指南（全彩）", "price": "¥109.80", "comnum": "26032条评论", "link": "//product.dangdang.com/29373973.html"}
+{"name": " Python数据可视化之matplotlib精进", "price": "¥46.30", "comnum": "35条评论", "link": "//product.dangdang.com/27862869.html"}
+{"name": " Python自动化测试实战", "price": "¥50.30", "comnum": "935条评论", "link": "//product.dangdang.com/28496655.html"}
+{"name": " Python 黑帽子：黑客与渗透测试编程之道", "price": "¥62.40", "comnum": "636条评论", "link": "//product.dangdang.com/29256066.html"}
+{"name": " Python程序设计（第2版）", "price": "¥45.70", "comnum": "189条评论", "link": "//product.dangdang.com/29348451.html"}
+{"name": " Python 3图像处理实战", "price": "¥39.50", "comnum": "2331条评论", "link": "//product.dangdang.com/29378998.html"}
+{"name": " Python基础教程（第3版）", "price": "¥49.50", "comnum": "286条评论", "link": "//product.dangdang.com/25218035.html"}
+{"name": " 青少年Python创意编程趣味课堂（微课版）", "price": "¥52.30", "comnum": "7306条评论", "link": "//product.dangdang.com/28495119.html"}
+{"name": " 左手Python，右手Excel：带飞Excel的Python绝技", "price": "¥59.20", "comnum": "274条评论", "link": "//product.dangdang.com/29359742.html"}
+{"name": " Python开发与财务应用", "price": "¥39.30", "comnum": "136条评论", "link": "//product.dangdang.com/29382605.html"}
+{"name": " 教孩子学编程：从Scratch图形化编程到Python语言编程（全彩印刷+视频讲解）（套装共3册）", "price": "¥172.00", "comnum": "79条评论", "link": "//product.dangdang.com/29196711.html"}
+{"name": " Python编程从入门到实践*2二版 编程入门零基础自学核心编程教程书籍 数据分析网络爬虫深度学习", "price": "¥82.35", "comnum": "212条评论", "link": "//product.dangdang.com/673852652.html"}
+{"name": " Python和Dask数据科学", "price": "¥59.80", "comnum": "141条评论", "link": "//product.dangdang.com/28998663.html"}
+{"name": " Python机器学习——原理、算法及案例实战-微课视频版", "price": "¥29.90", "comnum": "136条评论", "link": "//product.dangdang.com/29329111.html"}
+{"name": " 学Python 不加班 轻松实现办公自动化", "price": "¥49.50", "comnum": "1253条评论", "link": "//product.dangdang.com/29261388.html"}
+{"name": " 深入浅出Python量化交易实战", "price": "¥49.50", "comnum": "557条评论", "link": "//product.dangdang.com/29347566.html"}
+{"name": " Python机器学习基础教程", "price": "¥62.40", "comnum": "8145条评论", "link": "//product.dangdang.com/25232007.html"}
+{"name": " OpenCV 4计算机视觉：Python语言实现（原书第3版）", "price": "¥64.40", "comnum": "242条评论", "link": "//product.dangdang.com/29298899.html"}
+{"name": " Python GUI开发手册：基础·实战·强化", "price": "¥64.00", "comnum": "1条评论", "link": "//product.dangdang.com/29376925.html"}
+{"name": " Python数据分析从入门到精通", "price": "¥44.90", "comnum": "485条评论", "link": "//product.dangdang.com/29248170.html"}
+{"name": " 统计计算与智能分析理论及其Python实践", "price": "¥125.60", "comnum": "4条评论", "link": "//product.dangdang.com/29374837.html"}
+{"name": " Python深度学习", "price": "¥94.00", "comnum": "9919条评论", "link": "//product.dangdang.com/25324199.html"}
+{"name": " Python硬件开发树莓派从入门到实践（全彩版）", "price": "¥49.00", "comnum": "398条评论", "link": "//product.dangdang.com/29249039.html"}
+{"name": " Python Web开发从入门到实践（全彩版）", "price": "¥49.00", "comnum": "327条评论", "link": "//product.dangdang.com/29250277.html"}
+{"name": " Python网络爬虫权威指南 第2版", "price": "¥62.30", "comnum": "5097条评论", "link": "//product.dangdang.com/27857494.html"}
+{"name": " Python程序设计与算法基础教程（第2版）-微课版", "price": "¥50.10", "comnum": "762条评论", "link": "//product.dangdang.com/27890373.html"}
+{"name": " Python自动化办公：3分钟完成一天工作", "price": "¥70.30", "comnum": "621条评论", "link": "//product.dangdang.com/29261031.html"}
+{"name": " Python安全攻防：渗透测试实战指南", "price": "¥64.40", "comnum": "1172条评论", "link": "//product.dangdang.com/29131665.html"}
+{"name": " 趣味编程三剑客：从Scratch迈向Python和C++", "price": "¥89.20", "comnum": "615条评论", "link": "//product.dangdang.com/28974460.html"}
+{"name": " Python自动化办公从入门到精通——让Excel、Word、PPT飞起来", "price": "¥53.70", "comnum": "1220条评论", "link": "//product.dangdang.com/29235558.html"}
+{"name": " Python树莓派开发从入门到精通", "price": "¥44.90", "comnum": "234条评论", "link": "//product.dangdang.com/29315253.html"}
+{"name": " Python编程从入门到实战-轻松过二级", "price": "¥29.90", "comnum": "422条评论", "link": "//product.dangdang.com/29226591.html"}
+{"name": " Python语言及其应用(第2版)", "price": "¥64.90", "comnum": "1009条评论", "link": "//product.dangdang.com/29390276.html"}
+{"name": " Python数学实验与建模", "price": "¥140.60", "comnum": "754条评论", "link": "//product.dangdang.com/28547124.html"}
+{"name": " 人工智能+机器人入门与实战 用树莓派+Python+OpenCV制作计算机视觉机器人", "price": "¥46.30", "comnum": "171条评论", "link": "//product.dangdang.com/28537600.html"}
+{"name": " Selenium自动化测试完全指南 基于Python", "price": "¥49.50", "comnum": "319条评论", "link": "//product.dangdang.com/29238631.html"}
+{"name": " Python编程实战 妙趣横生的项目之旅", "price": "¥49.90", "comnum": "159条评论", "link": "//product.dangdang.com/29260052.html"}
+{"name": " Python Web数据分析可视化——基于Django框架的开发实战", "price": "¥34.50", "comnum": "2052条评论", "link": "//product.dangdang.com/29391939.html"}
+{"name": " 轻松玩转Python少儿编程", "price": "¥66.70", "comnum": "5922条评论", "link": "//product.dangdang.com/29348310.html"}
+{"name": " Python 3标准库", "price": "¥129.40", "comnum": "2996条评论", "link": "//product.dangdang.com/25534855.html"}
+{"name": " Python快乐编程基础入门（21世纪高等学校计算机专业实用规划教材）", "price": "¥34.70", "comnum": "12954条评论", "link": "//product.dangdang.com/27921598.html"}
+{"name": " 青少年Python编程入门", "price": "¥22.50", "comnum": "43条评论", "link": "//product.dangdang.com/27869934.html"}
+{"name": " Python神经网络编程", "price": "¥46.30", "comnum": "14条评论", "link": "//product.dangdang.com/25251315.html"}
+{"name": " AIoT系统开发：基于机器学习和Python深度学习", "price": "¥57.90", "comnum": "1条评论", "link": "//product.dangdang.com/29298910.html"}
+{"name": " Python基础教程 第3版+Office 2016实战技巧精粹辞典（全技巧视频版）", "price": "¥166.00", "comnum": "74条评论", "link": "//product.dangdang.com/410271462.html"}
+{"name": " Python数据分析实战宝典 套装共2册", "price": "¥156.00", "comnum": "103条评论", "link": "//product.dangdang.com/29308988.html"}
+{"name": " Python期货量化交易", "price": "¥54.90", "comnum": "64条评论", "link": "//product.dangdang.com/29370641.html"}
+{"name": " 精通Twisted：Python事件驱动及异步编程", "price": "¥74.20", "comnum": "346条评论", "link": "//product.dangdang.com/29177719.html"}
+{"name": " Python网络爬虫编程超级魔卡", "price": "¥20.00", "comnum": "204条评论", "link": "//product.dangdang.com/29277377.html"}
+{"name": " Python数据可视化之Matplotlib与Pyecharts", "price": "¥51.00", "comnum": "2755条评论", "link": "//product.dangdang.com/28556786.html"}
+{"name": " SQLAlchemy Python数据库实战 第2版", "price": "¥44.20", "comnum": "619条评论", "link": "//product.dangdang.com/27921631.html"}
+{"name": " Python机器学习手册：从数据预处理到深度学习", "price": "¥59.70", "comnum": "187条评论", "link": "//product.dangdang.com/27902091.html"}
+{"name": " Python机器学习：数据建模与分析", "price": "¥78.20", "comnum": "1条评论", "link": "//product.dangdang.com/29225137.html"}
+{"name": " 基于Python的DevOps", "price": "¥88.30", "comnum": "451条评论", "link": "//product.dangdang.com/29382814.html"}
+{"name": " 案例学Python：青少年编程从入门到精通", "price": "¥89.00", "comnum": "299条评论", "link": "//product.dangdang.com/29217015.html"}
+{"name": " Python金融风险管理FRM（实战篇）", "price": "¥84.50", "comnum": "625条评论", "link": "//product.dangdang.com/29385650.html"}
+{"name": " 基于Python的金融分析与风险管理（第2版）", "price": "¥84.00", "comnum": "303条评论", "link": "//product.dangdang.com/29313031.html"}
+{"name": " Python网络爬虫从入门到精通", "price": "¥49.90", "comnum": "505条评论", "link": "//product.dangdang.com/29249275.html"}
+{"name": " Python程序设计基础（第2版）", "price": "¥38.70", "comnum": "944条评论", "link": "//product.dangdang.com/28482393.html"}
+{"name": " 零基础Python从入门到精通", "price": "¥34.90", "comnum": "80条评论", "link": "//product.dangdang.com/29277275.html"}
+{"name": " 零基础学Python网络爬虫案例实战全流程详解（入门与提高篇）", "price": "¥49.50", "comnum": "81条评论", "link": "//product.dangdang.com/29265320.html"}
+{"name": " Python图像处理实战", "price": "¥70.30", "comnum": "1条评论", "link": "//product.dangdang.com/29160375.html"}
+{"name": " 少儿编程趣学指南：Scratch3.0篇+Python篇 （全2册，全彩印刷）", "price": "¥34.50", "comnum": "403条评论", "link": "//product.dangdang.com/28998646.html"}
+{"name": " 写给程序员的Python教程", "price": "¥62.40", "comnum": "530条评论", "link": "//product.dangdang.com/28985055.html"}
+{"name": " Python金融风险管理FRM（基础篇）", "price": "¥84.50", "comnum": "1337条评论", "link": "//product.dangdang.com/29385651.html"}
+{"name": " Python量化炒股入门与实战技巧", "price": "¥49.60", "comnum": "1条评论", "link": "//product.dangdang.com/28543042.html"}
+{"name": " 零基础学Python（全彩版）", "price": "¥39.90", "comnum": "15475条评论", "link": "//product.dangdang.com/28486010.html"}
+{"name": " Python编程 从入门到实践 第2版", "price": "¥54.90", "comnum": "218258条评论", "link": "//product.dangdang.com/29280602.html"}
+{"name": " DK编程真好玩：9岁开始学Python", "price": "¥59.00", "comnum": "13745条评论", "link": "//product.dangdang.com/27940162.html"}
+{"name": " Python爬虫技术——深入理解原理、技术与开发", "price": "¥44.50", "comnum": "2591条评论", "link": "//product.dangdang.com/28510027.html"}
+{"name": " Python项目开发案例集锦（全彩版）", "price": "¥64.00", "comnum": "3513条评论", "link": "//product.dangdang.com/28486019.html"}
+{"name": " Python编程快速上手 让繁琐工作自动化 第2版", "price": "¥44.50", "comnum": "44571条评论", "link": "//product.dangdang.com/29206214.html"}
+{"name": " 用Python编程和实践！数学教科书 机器学习 深度学习中必要的基础知识 人工智能 数学基础书 用python学数学 线", "price": "¥44.90", "comnum": "466条评论", "link": "//product.dangdang.com/29257459.html"}
+{"name": " Python+Office：轻松实现Python办公自动化", "price": "¥62.40", "comnum": "225条评论", "link": "//product.dangdang.com/29274777.html"}
+{"name": " 利用Python进行数据分析（原书第2版）", "price": "¥77.40", "comnum": "33763条评论", "link": "//product.dangdang.com/25312917.html"}
+{"name": " Python数据分析从入门到实践（全彩版）", "price": "¥49.00", "comnum": "944条评论", "link": "//product.dangdang.com/29249036.html"}
+{"name": " Python语言程序设计基础（第2版）", "price": "¥32.10", "comnum": "6697条评论", "link": "//product.dangdang.com/24189864.html"}
+{"name": " Python编程超级魔卡(全彩版)", "price": "¥14.90", "comnum": "2540条评论", "link": "//product.dangdang.com/28979311.html"}
+{"name": " Python编程三剑客新版：Python编程从入门到实践第2版+快速上手第2版+极客编程（当当套装共3册）", "price": "¥133.90", "comnum": "894条评论", "link": "//product.dangdang.com/29301947.html"}
+{"name": " 超简单：用Python让Excel飞起来", "price": "¥34.90", "comnum": "5131条评论", "link": "//product.dangdang.com/28999406.html"}
+{"name": " Python学习手册（原书第5版）", "price": "¥142.40", "comnum": "10040条评论", "link": "//product.dangdang.com/25576578.html"}
+{"name": " Python青少年趣味编程全彩版 独家配备71集视频教学课程 手机扫码看视频 少儿编程 小学生趣味编程 教孩子学编程 少", "price": "¥52.30", "comnum": "3535条评论", "link": "//product.dangdang.com/28524470.html"}
+{"name": " Python网络爬虫从入门到实践（全彩版）", "price": "¥49.00", "comnum": "471条评论", "link": "//product.dangdang.com/29249035.html"}
+{"name": " 看漫画学Python：有趣、有料、好玩、好用（全彩版）", "price": "¥59.70", "comnum": "6170条评论", "link": "//product.dangdang.com/28547874.html"}
+{"name": " 程序员数学 用Python学透线性代数和微积分", "price": "¥102.50", "comnum": "179条评论", "link": "//product.dangdang.com/29342404.html"}
+{"name": " Python编程300例——快速构建可执行高质量代码", "price": "¥44.50", "comnum": "1476条评论", "link": "//product.dangdang.com/28980121.html"}
+{"name": " Python黑帽子：黑客与渗透测试编程之道（第2版）", "price": "¥79.00", "comnum": "2条评论", "link": "//product.dangdang.com/29385527.html"}
+{"name": " 流畅的Python", "price": "¥109.60", "comnum": "10379条评论", "link": "//product.dangdang.com/25071121.html"}
+{"name": " 超简单：用Python让Excel飞起来（实战150例）", "price": "¥39.90", "comnum": "879条评论", "link": "//product.dangdang.com/29279837.html"}
+{"name": " Python Qt GUI与数据可视化编程", "price": "¥66.40", "comnum": "3328条评论", "link": "//product.dangdang.com/27918134.html"}
+{"name": " 用图形学Python 3", "price": "¥29.90", "comnum": "381条评论", "link": "//product.dangdang.com/29222668.html"}
+{"name": " 零基础学Python爬虫 数据分析与可视化从入门到精通", "price": "¥44.90", "comnum": "2932条评论", "link": "//product.dangdang.com/29166854.html"}
+{"name": " Python工匠：案例、技巧与工程实践（基于Python 3.8，实现Python编程从入门到工匠的跃迁）", "price": "¥78.80", "comnum": "151条评论", "link": "//product.dangdang.com/29367298.html"}
+{"name": " Django + Vue.js实战派——Python Web开发与运维", "price": "¥96.00", "comnum": "1条评论", "link": "//product.dangdang.com/29387504.html"}
+{"name": " Python GUI 设计tkinter从入门到实践（全彩版）", "price": "¥49.00", "comnum": "520条评论", "link": "//product.dangdang.com/29249040.html"}
+{"name": " Python3网络爬虫开发实战 第2版", "price": "¥110.40", "comnum": "449条评论", "link": "//product.dangdang.com/29339223.html"}
+{"name": " 日系图书用Python编程和实践！区块链教科书 从零创建简单区块链程序 比特币 元宇宙 数字货币 新金融底层技术 p2p", "price": "¥44.90", "comnum": "213条评论", "link": "//product.dangdang.com/29257456.html"}
+{"name": " Python GUI设计PyQt5从入门到实践（全彩版）", "price": "¥49.00", "comnum": "1041条评论", "link": "//product.dangdang.com/29225822.html"}
+{"name": " Python极客项目编程", "price": "¥46.30", "comnum": "3245条评论", "link": "//product.dangdang.com/25060153.html"}
+{"name": " Python OpenCV 从入门到实践（全彩版）", "price": "¥49.00", "comnum": "510条评论", "link": "//product.dangdang.com/29250278.html"}
+{"name": " Python实效编程百例·综合卷(全彩版)", "price": "¥39.90", "comnum": "1460条评论", "link": "//product.dangdang.com/28980468.html"}
+{"name": " Python编程无师自通 专业程序员的养成", "price": "¥46.60", "comnum": "3490条评论", "link": "//product.dangdang.com/26440157.html"}
+{"name": " 笨办法学Python 3", "price": "¥39.60", "comnum": "16148条评论", "link": "//product.dangdang.com/25286312.html"}
+{"name": " Python数据分析与可视化", "price": "¥29.90", "comnum": "251条评论", "link": "//product.dangdang.com/29277911.html"}
+{"name": " Python项目开发实战入门（全彩版）", "price": "¥49.00", "comnum": "955条评论", "link": "//product.dangdang.com/28976933.html"}
+{"name": " Python函数参考手册（全彩版）", "price": "¥26.90", "comnum": "855条评论", "link": "//product.dangdang.com/28980472.html"}
+{"name": " Python算法从入门到实践（全彩版）", "price": "¥49.00", "comnum": "248条评论", "link": "//product.dangdang.com/29249037.html"}
+{"name": " Python股票量化交易从入门到实践", "price": "¥49.90", "comnum": "2177条评论", "link": "//product.dangdang.com/29279080.html"}
+{"name": " 时间序列预测：基于机器学习和Python实现", "price": "¥66.70", "comnum": "70条评论", "link": "//product.dangdang.com/29362871.html"}
+{"name": " 少儿编程之旅 趣学Python", "price": "¥38.70", "comnum": "650条评论", "link": "//product.dangdang.com/28977660.html"}
+{"name": " 对比Excel，轻松学习Python数据分析", "price": "¥39.60", "comnum": "29822条评论", "link": "//product.dangdang.com/26512595.html"}
+{"name": " Python数据分析与挖掘实战（第2版）", "price": "¥39.50", "comnum": "3039条评论", "link": "//product.dangdang.com/28481513.html"}
+{"name": " Python从入门到实践（全彩版）", "price": "¥44.90", "comnum": "150条评论", "link": "//product.dangdang.com/29227961.html"}
+{"name": " Python编程实战100例 100个编程实例 1390分钟视频讲解 核心编程应用 项目开发 python进阶 pyth", "price": "¥44.90", "comnum": "480条评论", "link": "//product.dangdang.com/29307355.html"}
+{"name": " Python编程从数据分析到机器学习实践（微课视频版）", "price": "¥49.90", "comnum": "1181条评论", "link": "//product.dangdang.com/28517948.html"}
+{"name": " Python+Kivy(App开发)从入门到实践(全彩版)", "price": "¥49.00", "comnum": "1100条评论", "link": "//product.dangdang.com/28980464.html"}
+{"name": " Python从入门到项目实践（全彩版）", "price": "¥49.90", "comnum": "2314条评论", "link": "//product.dangdang.com/28486024.html"}
+{"name": " Python王者归来（增强版）", "price": "¥84.50", "comnum": "121条评论", "link": "//product.dangdang.com/29308247.html"}
+{"name": " Python速查手册·模块卷（全彩版）", "price": "¥65.50", "comnum": "831条评论", "link": "//product.dangdang.com/28996022.html"}
+{"name": " Python速查手册·基础卷（全彩版）", "price": "¥57.70", "comnum": "853条评论", "link": "//product.dangdang.com/28994565.html"}
+{"name": " 程序员的数学基础课 从理论到Python实践", "price": "¥44.50", "comnum": "637条评论", "link": "//product.dangdang.com/29211948.html"}
+{"name": " 非常容易：Python+Office市场营销办公自动化", "price": "¥39.90", "comnum": "12条评论", "link": "//product.dangdang.com/29393406.html"}
+{"name": " Python编程入门与算法进阶", "price": "¥49.50", "comnum": "1727条评论", "link": "//product.dangdang.com/29382153.html"}
+{"name": " Python编程锦囊（全彩版）", "price": "¥39.90", "comnum": "30条评论", "link": "//product.dangdang.com/28485449.html"}
+{"name": " Python进阶：实际应用开发实战", "price": "¥96.70", "comnum": "1764条评论", "link": "//product.dangdang.com/29365568.html"}
